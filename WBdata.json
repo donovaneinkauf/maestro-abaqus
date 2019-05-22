@@ -1,0 +1,5472 @@
+[
+ {
+   "Latitude": 47.95,
+   "Longtitude": -124.55,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 910,
+   "Temperature [C]": 6.8,
+   "Relative Humidity [%]": 98,
+   "Wind Direction [deg]": 165,
+   "Wind Speed [knot]": 29
+ },
+ {
+   "Latitude": 47.95,
+   "Longtitude": -124.55,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 838,
+   "Temperature [C]": 3.6,
+   "Relative Humidity [%]": 89,
+   "Wind Direction [deg]": 188,
+   "Wind Speed [knot]": 31
+ },
+ {
+   "Latitude": 47.95,
+   "Longtitude": -124.55,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 707,
+   "Temperature [C]": -4.3,
+   "Relative Humidity [%]": 94,
+   "Wind Direction [deg]": 196,
+   "Wind Speed [knot]": 41
+ },
+ {
+   "Latitude": 47.95,
+   "Longtitude": -124.55,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 552.1,
+   "Temperature [C]": -12.1,
+   "Relative Humidity [%]": 92,
+   "Wind Direction [deg]": 225,
+   "Wind Speed [knot]": 41
+ },
+ {
+   "Latitude": 47.95,
+   "Longtitude": -124.55,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 230.4,
+   "Temperature [C]": -59.8,
+   "Relative Humidity [%]": 34,
+   "Wind Direction [deg]": 240,
+   "Wind Speed [knot]": 77
+ },
+ {
+   "Latitude": 47.95,
+   "Longtitude": -124.55,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 123,
+   "Temperature [C]": -58.7,
+   "Relative Humidity [%]": 17,
+   "Wind Direction [deg]": 261,
+   "Wind Speed [knot]": 35
+ },
+ {
+   "Latitude": 47.95,
+   "Longtitude": -124.55,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 47.5,
+   "Temperature [C]": -60.1,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 285,
+   "Wind Speed [knot]": 18
+ },
+ {
+   "Latitude": 47.95,
+   "Longtitude": -124.55,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 20.8,
+   "Temperature [C]": -57.3,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 313,
+   "Wind Speed [knot]": 18
+ },
+ {
+   "Latitude": 47.95,
+   "Longtitude": -124.55,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 10.1,
+   "Temperature [C]": -56.7,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 240,
+   "Wind Speed [knot]": 23
+ },
+ {
+   "Latitude": 44.91,
+   "Longtitude": -123,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 913.1,
+   "Temperature [C]": 9.9,
+   "Relative Humidity [%]": 70,
+   "Wind Direction [deg]": 165,
+   "Wind Speed [knot]": 17
+ },
+ {
+   "Latitude": 44.91,
+   "Longtitude": -123,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 787.2,
+   "Temperature [C]": 3.9,
+   "Relative Humidity [%]": 30,
+   "Wind Direction [deg]": 210,
+   "Wind Speed [knot]": 31
+ },
+ {
+   "Latitude": 44.91,
+   "Longtitude": -123,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 681,
+   "Temperature [C]": -2.9,
+   "Relative Humidity [%]": 54,
+   "Wind Direction [deg]": 192,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 44.91,
+   "Longtitude": -123,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 561,
+   "Temperature [C]": -11.1,
+   "Relative Humidity [%]": 56,
+   "Wind Direction [deg]": 194,
+   "Wind Speed [knot]": 24
+ },
+ {
+   "Latitude": 44.91,
+   "Longtitude": -123,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 211,
+   "Temperature [C]": -64.2,
+   "Relative Humidity [%]": 41,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 61
+ },
+ {
+   "Latitude": 44.91,
+   "Longtitude": -123,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 115,
+   "Temperature [C]": -61.5,
+   "Relative Humidity [%]": 29,
+   "Wind Direction [deg]": 262,
+   "Wind Speed [knot]": 47
+ },
+ {
+   "Latitude": 44.91,
+   "Longtitude": -123,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 58,
+   "Temperature [C]": -61,
+   "Relative Humidity [%]": 25,
+   "Wind Direction [deg]": 295,
+   "Wind Speed [knot]": 14
+ },
+ {
+   "Latitude": 44.91,
+   "Longtitude": -123,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 23,
+   "Temperature [C]": -58.4,
+   "Relative Humidity [%]": 12,
+   "Wind Direction [deg]": 290,
+   "Wind Speed [knot]": 11
+ },
+ {
+   "Latitude": 44.91,
+   "Longtitude": -123,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 11.7,
+   "Temperature [C]": -55.9,
+   "Relative Humidity [%]": 5,
+   "Wind Direction [deg]": 150,
+   "Wind Speed [knot]": 21
+ },
+ {
+   "Latitude": 42.36,
+   "Longtitude": -122.86,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 939,
+   "Temperature [C]": 11,
+   "Relative Humidity [%]": 77,
+   "Wind Direction [deg]": 75,
+   "Wind Speed [knot]": 5
+ },
+ {
+   "Latitude": 42.36,
+   "Longtitude": -122.86,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 849.2,
+   "Temperature [C]": 8.8,
+   "Relative Humidity [%]": 57,
+   "Wind Direction [deg]": 180,
+   "Wind Speed [knot]": 6
+ },
+ {
+   "Latitude": 42.36,
+   "Longtitude": -122.86,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 700,
+   "Temperature [C]": -2.1,
+   "Relative Humidity [%]": 28,
+   "Wind Direction [deg]": 210,
+   "Wind Speed [knot]": 15
+ },
+ {
+   "Latitude": 42.36,
+   "Longtitude": -122.86,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 580,
+   "Temperature [C]": -8.5,
+   "Relative Humidity [%]": 48,
+   "Wind Direction [deg]": 198,
+   "Wind Speed [knot]": 17
+ },
+ {
+   "Latitude": 42.36,
+   "Longtitude": -122.86,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 225,
+   "Temperature [C]": -60.5,
+   "Relative Humidity [%]": 39,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 49
+ },
+ {
+   "Latitude": 42.36,
+   "Longtitude": -122.86,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 114,
+   "Temperature [C]": -67.9,
+   "Relative Humidity [%]": 31,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 46
+ },
+ {
+   "Latitude": 42.36,
+   "Longtitude": -122.86,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 47.9,
+   "Temperature [C]": -60.7,
+   "Relative Humidity [%]": 21,
+   "Wind Direction [deg]": 180,
+   "Wind Speed [knot]": 2
+ },
+ {
+   "Latitude": 42.36,
+   "Longtitude": -122.86,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 22.5,
+   "Temperature [C]": -60.7,
+   "Relative Humidity [%]": 2,
+   "Wind Direction [deg]": 323,
+   "Wind Speed [knot]": 9
+ },
+ {
+   "Latitude": 42.36,
+   "Longtitude": -122.86,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 10.2,
+   "Temperature [C]": -54.1,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 125,
+   "Wind Speed [knot]": 12
+ },
+ {
+   "Latitude": 37.73,
+   "Longtitude": -122.21,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 906,
+   "Temperature [C]": 14.2,
+   "Relative Humidity [%]": 44,
+   "Wind Direction [deg]": 4,
+   "Wind Speed [knot]": 7
+ },
+ {
+   "Latitude": 37.73,
+   "Longtitude": -122.21,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 795,
+   "Temperature [C]": 6.8,
+   "Relative Humidity [%]": 19,
+   "Wind Direction [deg]": 285,
+   "Wind Speed [knot]": 11
+ },
+ {
+   "Latitude": 37.73,
+   "Longtitude": -122.21,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 700,
+   "Temperature [C]": 1.2,
+   "Relative Humidity [%]": 60,
+   "Wind Direction [deg]": 300,
+   "Wind Speed [knot]": 15
+ },
+ {
+   "Latitude": 37.73,
+   "Longtitude": -122.21,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 515,
+   "Temperature [C]": -11.9,
+   "Relative Humidity [%]": 80,
+   "Wind Direction [deg]": 299,
+   "Wind Speed [knot]": 16
+ },
+ {
+   "Latitude": 37.73,
+   "Longtitude": -122.21,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 222,
+   "Temperature [C]": -59.5,
+   "Relative Humidity [%]": 35,
+   "Wind Direction [deg]": 300,
+   "Wind Speed [knot]": 39
+ },
+ {
+   "Latitude": 37.73,
+   "Longtitude": -122.21,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 145.7,
+   "Temperature [C]": -62.6,
+   "Relative Humidity [%]": 29,
+   "Wind Direction [deg]": 285,
+   "Wind Speed [knot]": 72
+ },
+ {
+   "Latitude": 37.73,
+   "Longtitude": -122.21,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 51.6,
+   "Temperature [C]": -64.9,
+   "Relative Humidity [%]": 24,
+   "Wind Direction [deg]": 350,
+   "Wind Speed [knot]": 6
+ },
+ {
+   "Latitude": 37.73,
+   "Longtitude": -122.21,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 24,
+   "Temperature [C]": -57.3,
+   "Relative Humidity [%]": 15,
+   "Wind Direction [deg]": 302,
+   "Wind Speed [knot]": 11
+ },
+ {
+   "Latitude": 37.73,
+   "Longtitude": -122.21,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 7.1,
+   "Temperature [C]": -48.9,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 229,
+   "Wind Speed [knot]": 14
+ },
+ {
+   "Latitude": 39.56,
+   "Longtitude": -119.8,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 820,
+   "Temperature [C]": 1.9,
+   "Relative Humidity [%]": 90,
+   "Wind Direction [deg]": 125,
+   "Wind Speed [knot]": 5
+ },
+ {
+   "Latitude": 39.56,
+   "Longtitude": -119.8,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 720,
+   "Temperature [C]": 1.4,
+   "Relative Humidity [%]": 74,
+   "Wind Direction [deg]": 244,
+   "Wind Speed [knot]": 4
+ },
+ {
+   "Latitude": 39.56,
+   "Longtitude": -119.8,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 540,
+   "Temperature [C]": -9.7,
+   "Relative Humidity [%]": 7,
+   "Wind Direction [deg]": 322,
+   "Wind Speed [knot]": 17
+ },
+ {
+   "Latitude": 39.56,
+   "Longtitude": -119.8,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 304,
+   "Temperature [C]": -42.3,
+   "Relative Humidity [%]": 46,
+   "Wind Direction [deg]": 322,
+   "Wind Speed [knot]": 32
+ },
+ {
+   "Latitude": 39.56,
+   "Longtitude": -119.8,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 115,
+   "Temperature [C]": -68.5,
+   "Relative Humidity [%]": 31,
+   "Wind Direction [deg]": 290,
+   "Wind Speed [knot]": 67
+ },
+ {
+   "Latitude": 39.56,
+   "Longtitude": -119.8,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 58.6,
+   "Temperature [C]": -63.6,
+   "Relative Humidity [%]": 24,
+   "Wind Direction [deg]": 290,
+   "Wind Speed [knot]": 13
+ },
+ {
+   "Latitude": 39.56,
+   "Longtitude": -119.8,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 28.6,
+   "Temperature [C]": -58.5,
+   "Relative Humidity [%]": 10,
+   "Wind Direction [deg]": 8,
+   "Wind Speed [knot]": 6
+ },
+ {
+   "Latitude": 39.56,
+   "Longtitude": -119.8,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 10.7,
+   "Temperature [C]": -56.5,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 27,
+   "Wind Speed [knot]": 8
+ },
+ {
+   "Latitude": 47.68,
+   "Longtitude": -117.63,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 887,
+   "Temperature [C]": -6.1,
+   "Relative Humidity [%]": 68,
+   "Wind Direction [deg]": 124,
+   "Wind Speed [knot]": 11
+ },
+ {
+   "Latitude": 47.68,
+   "Longtitude": -117.63,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 800,
+   "Temperature [C]": -2.9,
+   "Relative Humidity [%]": 2,
+   "Wind Direction [deg]": 188,
+   "Wind Speed [knot]": 12
+ },
+ {
+   "Latitude": 47.68,
+   "Longtitude": -117.63,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 691,
+   "Temperature [C]": -1.9,
+   "Relative Humidity [%]": 4,
+   "Wind Direction [deg]": 234,
+   "Wind Speed [knot]": 4
+ },
+ {
+   "Latitude": 47.68,
+   "Longtitude": -117.63,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 556.2,
+   "Temperature [C]": -13.5,
+   "Relative Humidity [%]": 4,
+   "Wind Direction [deg]": 320,
+   "Wind Speed [knot]": 18
+ },
+ {
+   "Latitude": 47.68,
+   "Longtitude": -117.63,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 215,
+   "Temperature [C]": -64.3,
+   "Relative Humidity [%]": 38,
+   "Wind Direction [deg]": 311,
+   "Wind Speed [knot]": 76
+ },
+ {
+   "Latitude": 47.68,
+   "Longtitude": -117.63,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 115.1,
+   "Temperature [C]": -61.1,
+   "Relative Humidity [%]": 34,
+   "Wind Direction [deg]": 315,
+   "Wind Speed [knot]": 33
+ },
+ {
+   "Latitude": 47.68,
+   "Longtitude": -117.63,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 43,
+   "Temperature [C]": -60.3,
+   "Relative Humidity [%]": 30,
+   "Wind Direction [deg]": 0,
+   "Wind Speed [knot]": 12
+ },
+ {
+   "Latitude": 47.68,
+   "Longtitude": -117.63,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 26.4,
+   "Temperature [C]": -58.8,
+   "Relative Humidity [%]": 26,
+   "Wind Direction [deg]": 295,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 47.68,
+   "Longtitude": -117.63,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 10.1,
+   "Temperature [C]": -57.9,
+   "Relative Humidity [%]": 20,
+   "Wind Direction [deg]": 290,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 32.85,
+   "Longtitude": -117.11,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 878.9,
+   "Temperature [C]": 14.9,
+   "Relative Humidity [%]": 6,
+   "Wind Direction [deg]": 350,
+   "Wind Speed [knot]": 3
+ },
+ {
+   "Latitude": 32.85,
+   "Longtitude": -117.11,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 731.2,
+   "Temperature [C]": 4,
+   "Relative Humidity [%]": 17,
+   "Wind Direction [deg]": 5,
+   "Wind Speed [knot]": 7
+ },
+ {
+   "Latitude": 32.85,
+   "Longtitude": -117.11,
+   "Height [m]": 4000,
+   "Pressure [hPa]": 614,
+   "Temperature [C]": -3.5,
+   "Relative Humidity [%]": 54,
+   "Wind Direction [deg]": 351,
+   "Wind Speed [knot]": 17
+ },
+ {
+   "Latitude": 43.56,
+   "Longtitude": -116.21,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 929,
+   "Temperature [C]": -0.5,
+   "Relative Humidity [%]": 55,
+   "Wind Direction [deg]": 140,
+   "Wind Speed [knot]": 4
+ },
+ {
+   "Latitude": 43.56,
+   "Longtitude": -116.21,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 801,
+   "Temperature [C]": -7.5,
+   "Relative Humidity [%]": 75,
+   "Wind Direction [deg]": 145,
+   "Wind Speed [knot]": 4
+ },
+ {
+   "Latitude": 43.56,
+   "Longtitude": -116.21,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 752,
+   "Temperature [C]": -1.7,
+   "Relative Humidity [%]": 28,
+   "Wind Direction [deg]": 86,
+   "Wind Speed [knot]": 6
+ },
+ {
+   "Latitude": 43.56,
+   "Longtitude": -116.21,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 500,
+   "Temperature [C]": -19.3,
+   "Relative Humidity [%]": 28,
+   "Wind Direction [deg]": 355,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 43.56,
+   "Longtitude": -116.21,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 199,
+   "Temperature [C]": -67.1,
+   "Relative Humidity [%]": 31,
+   "Wind Direction [deg]": 330,
+   "Wind Speed [knot]": 76
+ },
+ {
+   "Latitude": 43.56,
+   "Longtitude": -116.21,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 141,
+   "Temperature [C]": -62.9,
+   "Relative Humidity [%]": 29,
+   "Wind Direction [deg]": 310,
+   "Wind Speed [knot]": 71
+ },
+ {
+   "Latitude": 43.56,
+   "Longtitude": -116.21,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 47.7,
+   "Temperature [C]": -61.4,
+   "Relative Humidity [%]": 22,
+   "Wind Direction [deg]": 335,
+   "Wind Speed [knot]": 21
+ },
+ {
+   "Latitude": 43.56,
+   "Longtitude": -116.21,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 24.6,
+   "Temperature [C]": -57.1,
+   "Relative Humidity [%]": 18,
+   "Wind Direction [deg]": 326,
+   "Wind Speed [knot]": 8
+ },
+ {
+   "Latitude": 43.56,
+   "Longtitude": -116.21,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 10.2,
+   "Temperature [C]": -56.2,
+   "Relative Humidity [%]": 18,
+   "Wind Direction [deg]": 335,
+   "Wind Speed [knot]": 5
+ },
+ {
+   "Latitude": 40.86,
+   "Longtitude": -115.73,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 844,
+   "Temperature [C]": 1,
+   "Relative Humidity [%]": 60,
+   "Wind Direction [deg]": 6,
+   "Wind Speed [knot]": 8
+ },
+ {
+   "Latitude": 40.86,
+   "Longtitude": -115.73,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 747,
+   "Temperature [C]": -2.7,
+   "Relative Humidity [%]": 24,
+   "Wind Direction [deg]": 15,
+   "Wind Speed [knot]": 3
+ },
+ {
+   "Latitude": 40.86,
+   "Longtitude": -115.73,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 513.9,
+   "Temperature [C]": -18.1,
+   "Relative Humidity [%]": 41,
+   "Wind Direction [deg]": 345,
+   "Wind Speed [knot]": 24
+ },
+ {
+   "Latitude": 40.86,
+   "Longtitude": -115.73,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 205,
+   "Temperature [C]": -66.1,
+   "Relative Humidity [%]": 27,
+   "Wind Direction [deg]": 340,
+   "Wind Speed [knot]": 82
+ },
+ {
+   "Latitude": 40.86,
+   "Longtitude": -115.73,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 131,
+   "Temperature [C]": -62.1,
+   "Relative Humidity [%]": 22,
+   "Wind Direction [deg]": 316,
+   "Wind Speed [knot]": 67
+ },
+ {
+   "Latitude": 40.86,
+   "Longtitude": -115.73,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 52.5,
+   "Temperature [C]": -62.2,
+   "Relative Humidity [%]": 19,
+   "Wind Direction [deg]": 345,
+   "Wind Speed [knot]": 14
+ },
+ {
+   "Latitude": 40.86,
+   "Longtitude": -115.73,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 26.4,
+   "Temperature [C]": -57.7,
+   "Relative Humidity [%]": 11,
+   "Wind Direction [deg]": 70,
+   "Wind Speed [knot]": 5
+ },
+ {
+   "Latitude": 40.86,
+   "Longtitude": -115.73,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 16.3,
+   "Temperature [C]": -56.2,
+   "Relative Humidity [%]": 8,
+   "Wind Direction [deg]": 100,
+   "Wind Speed [knot]": 14
+ },
+ {
+   "Latitude": 40.77,
+   "Longtitude": -111.95,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 855,
+   "Temperature [C]": -5.3,
+   "Relative Humidity [%]": 63,
+   "Wind Direction [deg]": 343,
+   "Wind Speed [knot]": 6
+ },
+ {
+   "Latitude": 40.77,
+   "Longtitude": -111.95,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 795,
+   "Temperature [C]": -6.1,
+   "Relative Humidity [%]": 68,
+   "Wind Direction [deg]": 325,
+   "Wind Speed [knot]": 5
+ },
+ {
+   "Latitude": 40.77,
+   "Longtitude": -111.95,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 649.9,
+   "Temperature [C]": -9,
+   "Relative Humidity [%]": 3,
+   "Wind Direction [deg]": 0,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 40.77,
+   "Longtitude": -111.95,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 524,
+   "Temperature [C]": -18.3,
+   "Relative Humidity [%]": 26,
+   "Wind Direction [deg]": 337,
+   "Wind Speed [knot]": 32
+ },
+ {
+   "Latitude": 40.77,
+   "Longtitude": -111.95,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 279,
+   "Temperature [C]": -51.7,
+   "Relative Humidity [%]": 26,
+   "Wind Direction [deg]": 343,
+   "Wind Speed [knot]": 66
+ },
+ {
+   "Latitude": 40.77,
+   "Longtitude": -111.95,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 136,
+   "Temperature [C]": -59.7,
+   "Relative Humidity [%]": 23,
+   "Wind Direction [deg]": 323,
+   "Wind Speed [knot]": 56
+ },
+ {
+   "Latitude": 40.77,
+   "Longtitude": -111.95,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 52.4,
+   "Temperature [C]": -60.1,
+   "Relative Humidity [%]": 18,
+   "Wind Direction [deg]": 345,
+   "Wind Speed [knot]": 20
+ },
+ {
+   "Latitude": 40.77,
+   "Longtitude": -111.95,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 29.1,
+   "Temperature [C]": -57.5,
+   "Relative Humidity [%]": 10,
+   "Wind Direction [deg]": 340,
+   "Wind Speed [knot]": 20
+ },
+ {
+   "Latitude": 35.23,
+   "Longtitude": -111.82,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 700,
+   "Temperature [C]": -1.3,
+   "Relative Humidity [%]": 70,
+   "Wind Direction [deg]": 295,
+   "Wind Speed [knot]": 9
+ },
+ {
+   "Latitude": 35.23,
+   "Longtitude": -111.82,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 509,
+   "Temperature [C]": -15.7,
+   "Relative Humidity [%]": 67,
+   "Wind Direction [deg]": 310,
+   "Wind Speed [knot]": 27
+ },
+ {
+   "Latitude": 35.23,
+   "Longtitude": -111.82,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 250,
+   "Temperature [C]": -54.3,
+   "Relative Humidity [%]": 16,
+   "Wind Direction [deg]": 355,
+   "Wind Speed [knot]": 59
+ },
+ {
+   "Latitude": 35.23,
+   "Longtitude": -111.82,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 117,
+   "Temperature [C]": -62.9,
+   "Relative Humidity [%]": 17,
+   "Wind Direction [deg]": 330,
+   "Wind Speed [knot]": 51
+ },
+ {
+   "Latitude": 35.23,
+   "Longtitude": -111.82,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 52.7,
+   "Temperature [C]": -62.5,
+   "Relative Humidity [%]": 12,
+   "Wind Direction [deg]": 315,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 35.23,
+   "Longtitude": -111.82,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 20,
+   "Temperature [C]": -56.9,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 320,
+   "Wind Speed [knot]": 10
+ },
+ {
+   "Latitude": 35.23,
+   "Longtitude": -111.82,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 10.9,
+   "Temperature [C]": -54.9,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 283,
+   "Wind Speed [knot]": 26
+ },
+ {
+   "Latitude": 47.46,
+   "Longtitude": -111.38,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 885.8,
+   "Temperature [C]": -8.5,
+   "Relative Humidity [%]": 41,
+   "Wind Direction [deg]": 190,
+   "Wind Speed [knot]": 7
+ },
+ {
+   "Latitude": 47.46,
+   "Longtitude": -111.38,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 758.1,
+   "Temperature [C]": -3.7,
+   "Relative Humidity [%]": 6,
+   "Wind Direction [deg]": 305,
+   "Wind Speed [knot]": 11
+ },
+ {
+   "Latitude": 47.46,
+   "Longtitude": -111.38,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 574.9,
+   "Temperature [C]": -15.4,
+   "Relative Humidity [%]": 22,
+   "Wind Direction [deg]": 15,
+   "Wind Speed [knot]": 39
+ },
+ {
+   "Latitude": 47.46,
+   "Longtitude": -111.38,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 238,
+   "Temperature [C]": -60.1,
+   "Relative Humidity [%]": 34,
+   "Wind Direction [deg]": 356,
+   "Wind Speed [knot]": 90
+ },
+ {
+   "Latitude": 47.46,
+   "Longtitude": -111.38,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 158,
+   "Temperature [C]": -56.7,
+   "Relative Humidity [%]": 36,
+   "Wind Direction [deg]": 347,
+   "Wind Speed [knot]": 65
+ },
+ {
+   "Latitude": 32.23,
+   "Longtitude": -110.96,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 850,
+   "Temperature [C]": 13,
+   "Relative Humidity [%]": 19,
+   "Wind Direction [deg]": 290,
+   "Wind Speed [knot]": 3
+ },
+ {
+   "Latitude": 32.23,
+   "Longtitude": -110.96,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 709,
+   "Temperature [C]": 2.6,
+   "Relative Humidity [%]": 11,
+   "Wind Direction [deg]": 232,
+   "Wind Speed [knot]": 8
+ },
+ {
+   "Latitude": 32.23,
+   "Longtitude": -110.96,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 635,
+   "Temperature [C]": -3.9,
+   "Relative Humidity [%]": 30,
+   "Wind Direction [deg]": 275,
+   "Wind Speed [knot]": 6
+ },
+ {
+   "Latitude": 32.23,
+   "Longtitude": -110.96,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 546,
+   "Temperature [C]": -11.9,
+   "Relative Humidity [%]": 83,
+   "Wind Direction [deg]": 285,
+   "Wind Speed [knot]": 15
+ },
+ {
+   "Latitude": 32.23,
+   "Longtitude": -110.96,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 294.6,
+   "Temperature [C]": -45.5,
+   "Relative Humidity [%]": 40,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 48
+ },
+ {
+   "Latitude": 32.23,
+   "Longtitude": -110.96,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 117.8,
+   "Temperature [C]": -63.9,
+   "Relative Humidity [%]": 18,
+   "Wind Direction [deg]": 310,
+   "Wind Speed [knot]": 48
+ },
+ {
+   "Latitude": 32.23,
+   "Longtitude": -110.96,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 51.9,
+   "Temperature [C]": -63.7,
+   "Relative Humidity [%]": 13,
+   "Wind Direction [deg]": 328,
+   "Wind Speed [knot]": 16
+ },
+ {
+   "Latitude": 32.23,
+   "Longtitude": -110.96,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 26.9,
+   "Temperature [C]": -60.9,
+   "Relative Humidity [%]": 3,
+   "Wind Direction [deg]": 303,
+   "Wind Speed [knot]": 15
+ },
+ {
+   "Latitude": 32.23,
+   "Longtitude": -110.96,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 11.2,
+   "Temperature [C]": -52.9,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 295,
+   "Wind Speed [knot]": 24
+ },
+ {
+   "Latitude": 39.11,
+   "Longtitude": -108.53,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 850,
+   "Temperature [C]": -2.5,
+   "Relative Humidity [%]": 46,
+   "Wind Direction [deg]": 330,
+   "Wind Speed [knot]": 3
+ },
+ {
+   "Latitude": 39.11,
+   "Longtitude": -108.53,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 731,
+   "Temperature [C]": -8.9,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 20,
+   "Wind Speed [knot]": 19
+ },
+ {
+   "Latitude": 39.11,
+   "Longtitude": -108.53,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 598.3,
+   "Temperature [C]": -13.9,
+   "Relative Humidity [%]": 2,
+   "Wind Direction [deg]": 340,
+   "Wind Speed [knot]": 29
+ },
+ {
+   "Latitude": 39.11,
+   "Longtitude": -108.53,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 235,
+   "Temperature [C]": -58.9,
+   "Relative Humidity [%]": 46,
+   "Wind Direction [deg]": 311,
+   "Wind Speed [knot]": 46
+ },
+ {
+   "Latitude": 39.11,
+   "Longtitude": -108.53,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 100,
+   "Temperature [C]": -61.9,
+   "Relative Humidity [%]": 34,
+   "Wind Direction [deg]": 320,
+   "Wind Speed [knot]": 49
+ },
+ {
+   "Latitude": 39.11,
+   "Longtitude": -108.53,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 49.7,
+   "Temperature [C]": -59.9,
+   "Relative Humidity [%]": 34,
+   "Wind Direction [deg]": 320,
+   "Wind Speed [knot]": 12
+ },
+ {
+   "Latitude": 39.11,
+   "Longtitude": -108.53,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 37.1,
+   "Temperature [C]": -61.1,
+   "Relative Humidity [%]": 32,
+   "Wind Direction [deg]": 315,
+   "Wind Speed [knot]": 21
+ },
+ {
+   "Latitude": 43.06,
+   "Longtitude": -108.48,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 760,
+   "Temperature [C]": -13.5,
+   "Relative Humidity [%]": 15,
+   "Wind Direction [deg]": 308,
+   "Wind Speed [knot]": 2
+ },
+ {
+   "Latitude": 43.06,
+   "Longtitude": -108.48,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 650,
+   "Temperature [C]": -16.5,
+   "Relative Humidity [%]": 3,
+   "Wind Direction [deg]": 349,
+   "Wind Speed [knot]": 28
+ },
+ {
+   "Latitude": 43.06,
+   "Longtitude": -108.48,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 500,
+   "Temperature [C]": -24.9,
+   "Relative Humidity [%]": 7,
+   "Wind Direction [deg]": 345,
+   "Wind Speed [knot]": 49
+ },
+ {
+   "Latitude": 43.06,
+   "Longtitude": -108.48,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 297,
+   "Temperature [C]": -51.5,
+   "Relative Humidity [%]": 12,
+   "Wind Direction [deg]": 345,
+   "Wind Speed [knot]": 69
+ },
+ {
+   "Latitude": 43.06,
+   "Longtitude": -108.48,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 151,
+   "Temperature [C]": -56.5,
+   "Relative Humidity [%]": 13,
+   "Wind Direction [deg]": 334,
+   "Wind Speed [knot]": 55
+ },
+ {
+   "Latitude": 43.06,
+   "Longtitude": -108.48,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 57.3,
+   "Temperature [C]": -60.2,
+   "Relative Humidity [%]": 12,
+   "Wind Direction [deg]": 345,
+   "Wind Speed [knot]": 20
+ },
+ {
+   "Latitude": 43.06,
+   "Longtitude": -108.48,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 20,
+   "Temperature [C]": -54.5,
+   "Relative Humidity [%]": 8,
+   "Wind Direction [deg]": 310,
+   "Wind Speed [knot]": 8
+ },
+ {
+   "Latitude": 31.86,
+   "Longtitude": -106.7,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 850,
+   "Temperature [C]": 0,
+   "Relative Humidity [%]": 43,
+   "Wind Direction [deg]": 110,
+   "Wind Speed [knot]": 18
+ },
+ {
+   "Latitude": 31.86,
+   "Longtitude": -106.7,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 758,
+   "Temperature [C]": 3.1,
+   "Relative Humidity [%]": 52,
+   "Wind Direction [deg]": 275,
+   "Wind Speed [knot]": 14
+ },
+ {
+   "Latitude": 31.86,
+   "Longtitude": -106.7,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 681,
+   "Temperature [C]": -1.1,
+   "Relative Humidity [%]": 14,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 31.86,
+   "Longtitude": -106.7,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 556.4,
+   "Temperature [C]": -11.2,
+   "Relative Humidity [%]": 66,
+   "Wind Direction [deg]": 290,
+   "Wind Speed [knot]": 26
+ },
+ {
+   "Latitude": 31.86,
+   "Longtitude": -106.7,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 201.4,
+   "Temperature [C]": -63.6,
+   "Relative Humidity [%]": 33,
+   "Wind Direction [deg]": 250,
+   "Wind Speed [knot]": 69
+ },
+ {
+   "Latitude": 31.86,
+   "Longtitude": -106.7,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 135.5,
+   "Temperature [C]": -62.6,
+   "Relative Humidity [%]": 29,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 44
+ },
+ {
+   "Latitude": 31.86,
+   "Longtitude": -106.7,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 54.9,
+   "Temperature [C]": -64.4,
+   "Relative Humidity [%]": 29,
+   "Wind Direction [deg]": 290,
+   "Wind Speed [knot]": 25
+ },
+ {
+   "Latitude": 31.86,
+   "Longtitude": -106.7,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 22.8,
+   "Temperature [C]": -56,
+   "Relative Humidity [%]": 27,
+   "Wind Direction [deg]": 215,
+   "Wind Speed [knot]": 17
+ },
+ {
+   "Latitude": 31.86,
+   "Longtitude": -106.7,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 16.8,
+   "Temperature [C]": -55.7,
+   "Relative Humidity [%]": 24,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 27
+ },
+ {
+   "Latitude": 35.05,
+   "Longtitude": -106.61,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 818.4,
+   "Temperature [C]": -0.4,
+   "Relative Humidity [%]": 47,
+   "Wind Direction [deg]": 65,
+   "Wind Speed [knot]": 3
+ },
+ {
+   "Latitude": 35.05,
+   "Longtitude": -106.61,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 700,
+   "Temperature [C]": -5.5,
+   "Relative Humidity [%]": 89,
+   "Wind Direction [deg]": 300,
+   "Wind Speed [knot]": 16
+ },
+ {
+   "Latitude": 35.05,
+   "Longtitude": -106.61,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 484,
+   "Temperature [C]": -20.1,
+   "Relative Humidity [%]": 45,
+   "Wind Direction [deg]": 300,
+   "Wind Speed [knot]": 30
+ },
+ {
+   "Latitude": 35.05,
+   "Longtitude": -106.61,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 223,
+   "Temperature [C]": -62.3,
+   "Relative Humidity [%]": 39,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 68
+ },
+ {
+   "Latitude": 35.05,
+   "Longtitude": -106.61,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 116,
+   "Temperature [C]": -60.7,
+   "Relative Humidity [%]": 19,
+   "Wind Direction [deg]": 300,
+   "Wind Speed [knot]": 43
+ },
+ {
+   "Latitude": 35.05,
+   "Longtitude": -106.61,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 48.6,
+   "Temperature [C]": -60.1,
+   "Relative Humidity [%]": 11,
+   "Wind Direction [deg]": 303,
+   "Wind Speed [knot]": 18
+ },
+ {
+   "Latitude": 35.05,
+   "Longtitude": -106.61,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 22.4,
+   "Temperature [C]": -58.9,
+   "Relative Humidity [%]": 2,
+   "Wind Direction [deg]": 304,
+   "Wind Speed [knot]": 12
+ },
+ {
+   "Latitude": 35.05,
+   "Longtitude": -106.61,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 10.6,
+   "Temperature [C]": -55.2,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 300,
+   "Wind Speed [knot]": 29
+ },
+ {
+   "Latitude": 48.21,
+   "Longtitude": -106.61,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 882,
+   "Temperature [C]": -16.5,
+   "Relative Humidity [%]": 65,
+   "Wind Direction [deg]": 219,
+   "Wind Speed [knot]": 12
+ },
+ {
+   "Latitude": 48.21,
+   "Longtitude": -106.61,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 786.6,
+   "Temperature [C]": -11.2,
+   "Relative Humidity [%]": 33,
+   "Wind Direction [deg]": 345,
+   "Wind Speed [knot]": 8
+ },
+ {
+   "Latitude": 48.21,
+   "Longtitude": -106.61,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 593.2,
+   "Temperature [C]": -19.7,
+   "Relative Humidity [%]": 30,
+   "Wind Direction [deg]": 5,
+   "Wind Speed [knot]": 33
+ },
+ {
+   "Latitude": 48.21,
+   "Longtitude": -106.61,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 248,
+   "Temperature [C]": -58.9,
+   "Relative Humidity [%]": 30,
+   "Wind Direction [deg]": 0,
+   "Wind Speed [knot]": 81
+ },
+ {
+   "Latitude": 48.21,
+   "Longtitude": -106.61,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 129,
+   "Temperature [C]": -55.5,
+   "Relative Humidity [%]": 28,
+   "Wind Direction [deg]": 359,
+   "Wind Speed [knot]": 43
+ },
+ {
+   "Latitude": 48.21,
+   "Longtitude": -106.61,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 42.8,
+   "Temperature [C]": -59.4,
+   "Relative Humidity [%]": 26,
+   "Wind Direction [deg]": 15,
+   "Wind Speed [knot]": 11
+ },
+ {
+   "Latitude": 48.21,
+   "Longtitude": -106.61,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 27.1,
+   "Temperature [C]": -60.5,
+   "Relative Humidity [%]": 26,
+   "Wind Direction [deg]": 313,
+   "Wind Speed [knot]": 21
+ },
+ {
+   "Latitude": 48.21,
+   "Longtitude": -106.61,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 11.4,
+   "Temperature [C]": -55.3,
+   "Relative Humidity [%]": 24,
+   "Wind Direction [deg]": 323,
+   "Wind Speed [knot]": 49
+ },
+ {
+   "Latitude": 39.75,
+   "Longtitude": -104.87,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 821.7,
+   "Temperature [C]": -11.9,
+   "Relative Humidity [%]": 35,
+   "Wind Direction [deg]": 90,
+   "Wind Speed [knot]": 7
+ },
+ {
+   "Latitude": 39.75,
+   "Longtitude": -104.87,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 700,
+   "Temperature [C]": -14.7,
+   "Relative Humidity [%]": 42,
+   "Wind Direction [deg]": 310,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 39.75,
+   "Longtitude": -104.87,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 572,
+   "Temperature [C]": -19.3,
+   "Relative Humidity [%]": 2,
+   "Wind Direction [deg]": 328,
+   "Wind Speed [knot]": 55
+ },
+ {
+   "Latitude": 39.75,
+   "Longtitude": -104.87,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 250,
+   "Temperature [C]": -58.5,
+   "Relative Humidity [%]": 13,
+   "Wind Direction [deg]": 315,
+   "Wind Speed [knot]": 84
+ },
+ {
+   "Latitude": 39.75,
+   "Longtitude": -104.87,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 105,
+   "Temperature [C]": -57.9,
+   "Relative Humidity [%]": 11,
+   "Wind Direction [deg]": 306,
+   "Wind Speed [knot]": 44
+ },
+ {
+   "Latitude": 39.75,
+   "Longtitude": -104.87,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 47.1,
+   "Temperature [C]": -61.8,
+   "Relative Humidity [%]": 11,
+   "Wind Direction [deg]": 290,
+   "Wind Speed [knot]": 25
+ },
+ {
+   "Latitude": 39.75,
+   "Longtitude": -104.87,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 26.1,
+   "Temperature [C]": -57.5,
+   "Relative Humidity [%]": 10,
+   "Wind Direction [deg]": 179,
+   "Wind Speed [knot]": 4
+ },
+ {
+   "Latitude": 39.75,
+   "Longtitude": -104.87,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 14.4,
+   "Temperature [C]": -56.1,
+   "Relative Humidity [%]": 6,
+   "Wind Direction [deg]": 279,
+   "Wind Speed [knot]": 11
+ },
+ {
+   "Latitude": 44.08,
+   "Longtitude": -103.21,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 891,
+   "Temperature [C]": -20.7,
+   "Relative Humidity [%]": 70,
+   "Wind Direction [deg]": 341,
+   "Wind Speed [knot]": 11
+ },
+ {
+   "Latitude": 44.08,
+   "Longtitude": -103.21,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 786.4,
+   "Temperature [C]": -20.8,
+   "Relative Humidity [%]": 67,
+   "Wind Direction [deg]": 355,
+   "Wind Speed [knot]": 11
+ },
+ {
+   "Latitude": 44.08,
+   "Longtitude": -103.21,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 724.1,
+   "Temperature [C]": -19.6,
+   "Relative Humidity [%]": 31,
+   "Wind Direction [deg]": 350,
+   "Wind Speed [knot]": 16
+ },
+ {
+   "Latitude": 44.08,
+   "Longtitude": -103.21,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 588.1,
+   "Temperature [C]": -27,
+   "Relative Humidity [%]": 35,
+   "Wind Direction [deg]": 20,
+   "Wind Speed [knot]": 24
+ },
+ {
+   "Latitude": 44.08,
+   "Longtitude": -103.21,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 242,
+   "Temperature [C]": -52.9,
+   "Relative Humidity [%]": 19,
+   "Wind Direction [deg]": 349,
+   "Wind Speed [knot]": 55
+ },
+ {
+   "Latitude": 44.08,
+   "Longtitude": -103.21,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 112,
+   "Temperature [C]": -54.5,
+   "Relative Humidity [%]": 16,
+   "Wind Direction [deg]": 325,
+   "Wind Speed [knot]": 36
+ },
+ {
+   "Latitude": 44.08,
+   "Longtitude": -103.21,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 51.7,
+   "Temperature [C]": -58.1,
+   "Relative Humidity [%]": 15,
+   "Wind Direction [deg]": 315,
+   "Wind Speed [knot]": 26
+ },
+ {
+   "Latitude": 44.08,
+   "Longtitude": -103.21,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 25.1,
+   "Temperature [C]": -57.1,
+   "Relative Humidity [%]": 14,
+   "Wind Direction [deg]": 315,
+   "Wind Speed [knot]": 17
+ },
+ {
+   "Latitude": 44.08,
+   "Longtitude": -103.21,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 10,
+   "Temperature [C]": -59.3,
+   "Relative Humidity [%]": 11,
+   "Wind Direction [deg]": 315,
+   "Wind Speed [knot]": 26
+ },
+ {
+   "Latitude": 31.95,
+   "Longtitude": -102.18,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 886.9,
+   "Temperature [C]": -6.9,
+   "Relative Humidity [%]": 39,
+   "Wind Direction [deg]": 15,
+   "Wind Speed [knot]": 17
+ },
+ {
+   "Latitude": 31.95,
+   "Longtitude": -102.18,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 808,
+   "Temperature [C]": -6.7,
+   "Relative Humidity [%]": 73,
+   "Wind Direction [deg]": 18,
+   "Wind Speed [knot]": 13
+ },
+ {
+   "Latitude": 31.95,
+   "Longtitude": -102.18,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 721,
+   "Temperature [C]": -0.9,
+   "Relative Humidity [%]": 50,
+   "Wind Direction [deg]": 292,
+   "Wind Speed [knot]": 21
+ },
+ {
+   "Latitude": 31.95,
+   "Longtitude": -102.18,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 525,
+   "Temperature [C]": -14.9,
+   "Relative Humidity [%]": 22,
+   "Wind Direction [deg]": 266,
+   "Wind Speed [knot]": 37
+ },
+ {
+   "Latitude": 31.95,
+   "Longtitude": -102.18,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 300,
+   "Temperature [C]": -43.3,
+   "Relative Humidity [%]": 11,
+   "Wind Direction [deg]": 260,
+   "Wind Speed [knot]": 78
+ },
+ {
+   "Latitude": 31.95,
+   "Longtitude": -102.18,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 116.4,
+   "Temperature [C]": -62.5,
+   "Relative Humidity [%]": 18,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 58
+ },
+ {
+   "Latitude": 31.95,
+   "Longtitude": -102.18,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 36,
+   "Temperature [C]": -58.3,
+   "Relative Humidity [%]": 15,
+   "Wind Direction [deg]": 257,
+   "Wind Speed [knot]": 10
+ },
+ {
+   "Latitude": 31.95,
+   "Longtitude": -102.18,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 22.8,
+   "Temperature [C]": -56.5,
+   "Relative Humidity [%]": 12,
+   "Wind Direction [deg]": 225,
+   "Wind Speed [knot]": 20
+ },
+ {
+   "Latitude": 31.95,
+   "Longtitude": -102.18,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 10.1,
+   "Temperature [C]": -53.1,
+   "Relative Humidity [%]": 11,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 33
+ },
+ {
+   "Latitude": 35.23,
+   "Longtitude": -101.7,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 850,
+   "Temperature [C]": -10.3,
+   "Relative Humidity [%]": 23,
+   "Wind Direction [deg]": 0,
+   "Wind Speed [knot]": 23
+ },
+ {
+   "Latitude": 35.23,
+   "Longtitude": -101.7,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 751,
+   "Temperature [C]": -11.5,
+   "Relative Humidity [%]": 19,
+   "Wind Direction [deg]": 342,
+   "Wind Speed [knot]": 21
+ },
+ {
+   "Latitude": 35.23,
+   "Longtitude": -101.7,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 668,
+   "Temperature [C]": -12.9,
+   "Relative Humidity [%]": 95,
+   "Wind Direction [deg]": 315,
+   "Wind Speed [knot]": 26
+ },
+ {
+   "Latitude": 35.23,
+   "Longtitude": -101.7,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 583,
+   "Temperature [C]": -13.9,
+   "Relative Humidity [%]": 22,
+   "Wind Direction [deg]": 302,
+   "Wind Speed [knot]": 42
+ },
+ {
+   "Latitude": 35.23,
+   "Longtitude": -101.7,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 250,
+   "Temperature [C]": -55.3,
+   "Relative Humidity [%]": 41,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 96
+ },
+ {
+   "Latitude": 35.23,
+   "Longtitude": -101.7,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 100,
+   "Temperature [C]": -63.5,
+   "Relative Humidity [%]": 25,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 50
+ },
+ {
+   "Latitude": 35.23,
+   "Longtitude": -101.7,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 57.5,
+   "Temperature [C]": -62.3,
+   "Relative Humidity [%]": 22,
+   "Wind Direction [deg]": 310,
+   "Wind Speed [knot]": 11
+ },
+ {
+   "Latitude": 35.23,
+   "Longtitude": -101.7,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 25.2,
+   "Temperature [C]": -56.5,
+   "Relative Humidity [%]": 16,
+   "Wind Direction [deg]": 336,
+   "Wind Speed [knot]": 13
+ },
+ {
+   "Latitude": 35.23,
+   "Longtitude": -101.7,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 11.9,
+   "Temperature [C]": -52.1,
+   "Relative Humidity [%]": 5,
+   "Wind Direction [deg]": 286,
+   "Wind Speed [knot]": 37
+ },
+ {
+   "Latitude": 29.36,
+   "Longtitude": -100.91,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 885.1,
+   "Temperature [C]": -4.1,
+   "Relative Humidity [%]": 46,
+   "Wind Direction [deg]": 0,
+   "Wind Speed [knot]": 17
+ },
+ {
+   "Latitude": 29.36,
+   "Longtitude": -100.91,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 795,
+   "Temperature [C]": 1.6,
+   "Relative Humidity [%]": 60,
+   "Wind Direction [deg]": 318,
+   "Wind Speed [knot]": 14
+ },
+ {
+   "Latitude": 29.36,
+   "Longtitude": -100.91,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 731.4,
+   "Temperature [C]": 2.5,
+   "Relative Humidity [%]": 33,
+   "Wind Direction [deg]": 275,
+   "Wind Speed [knot]": 14
+ },
+ {
+   "Latitude": 29.36,
+   "Longtitude": -100.91,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 603.7,
+   "Temperature [C]": -6,
+   "Relative Humidity [%]": 19,
+   "Wind Direction [deg]": 260,
+   "Wind Speed [knot]": 24
+ },
+ {
+   "Latitude": 29.36,
+   "Longtitude": -100.91,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 236.5,
+   "Temperature [C]": -51.6,
+   "Relative Humidity [%]": 8,
+   "Wind Direction [deg]": 260,
+   "Wind Speed [knot]": 103
+ },
+ {
+   "Latitude": 29.36,
+   "Longtitude": -100.91,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 125,
+   "Temperature [C]": -64.9,
+   "Relative Humidity [%]": 18,
+   "Wind Direction [deg]": 257,
+   "Wind Speed [knot]": 80
+ },
+ {
+   "Latitude": 29.36,
+   "Longtitude": -100.91,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 50,
+   "Temperature [C]": -64.5,
+   "Relative Humidity [%]": 13,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 26
+ },
+ {
+   "Latitude": 29.36,
+   "Longtitude": -100.91,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 27.8,
+   "Temperature [C]": -58.7,
+   "Relative Humidity [%]": 7,
+   "Wind Direction [deg]": 275,
+   "Wind Speed [knot]": 31
+ },
+ {
+   "Latitude": 29.36,
+   "Longtitude": -100.91,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 10.2,
+   "Temperature [C]": -53.9,
+   "Relative Humidity [%]": 3,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 58
+ },
+ {
+   "Latitude": 46.76,
+   "Longtitude": -100.75,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 889,
+   "Temperature [C]": -18.9,
+   "Relative Humidity [%]": 86,
+   "Wind Direction [deg]": 345,
+   "Wind Speed [knot]": 12
+ },
+ {
+   "Latitude": 46.76,
+   "Longtitude": -100.75,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 800,
+   "Temperature [C]": -19.9,
+   "Relative Humidity [%]": 79,
+   "Wind Direction [deg]": 345,
+   "Wind Speed [knot]": 15
+ },
+ {
+   "Latitude": 46.76,
+   "Longtitude": -100.75,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 662,
+   "Temperature [C]": -21.7,
+   "Relative Humidity [%]": 64,
+   "Wind Direction [deg]": 343,
+   "Wind Speed [knot]": 18
+ },
+ {
+   "Latitude": 46.76,
+   "Longtitude": -100.75,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 452.2,
+   "Temperature [C]": -41,
+   "Relative Humidity [%]": 34,
+   "Wind Direction [deg]": 345,
+   "Wind Speed [knot]": 20
+ },
+ {
+   "Latitude": 46.76,
+   "Longtitude": -100.75,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 244,
+   "Temperature [C]": -51.9,
+   "Relative Humidity [%]": 20,
+   "Wind Direction [deg]": 0,
+   "Wind Speed [knot]": 51
+ },
+ {
+   "Latitude": 46.76,
+   "Longtitude": -100.75,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 110.8,
+   "Temperature [C]": -53.8,
+   "Relative Humidity [%]": 11,
+   "Wind Direction [deg]": 340,
+   "Wind Speed [knot]": 34
+ },
+ {
+   "Latitude": 46.76,
+   "Longtitude": -100.75,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 56.9,
+   "Temperature [C]": -56,
+   "Relative Humidity [%]": 8,
+   "Wind Direction [deg]": 305,
+   "Wind Speed [knot]": 16
+ },
+ {
+   "Latitude": 46.76,
+   "Longtitude": -100.75,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 21.9,
+   "Temperature [C]": -56.9,
+   "Relative Humidity [%]": 5,
+   "Wind Direction [deg]": 311,
+   "Wind Speed [knot]": 21
+ },
+ {
+   "Latitude": 46.76,
+   "Longtitude": -100.75,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 17.3,
+   "Temperature [C]": -56.9,
+   "Relative Humidity [%]": 5,
+   "Wind Direction [deg]": 287,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 41.13,
+   "Longtitude": -100.68,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 856,
+   "Temperature [C]": -22.3,
+   "Relative Humidity [%]": 74,
+   "Wind Direction [deg]": 343,
+   "Wind Speed [knot]": 34
+ },
+ {
+   "Latitude": 41.13,
+   "Longtitude": -100.68,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 779,
+   "Temperature [C]": -21.3,
+   "Relative Humidity [%]": 58,
+   "Wind Direction [deg]": 350,
+   "Wind Speed [knot]": 28
+ },
+ {
+   "Latitude": 41.13,
+   "Longtitude": -100.68,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 722.5,
+   "Temperature [C]": -20.8,
+   "Relative Humidity [%]": 33,
+   "Wind Direction [deg]": 320,
+   "Wind Speed [knot]": 16
+ },
+ {
+   "Latitude": 41.13,
+   "Longtitude": -100.68,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 537.9,
+   "Temperature [C]": -33.2,
+   "Relative Humidity [%]": 24,
+   "Wind Direction [deg]": 325,
+   "Wind Speed [knot]": 25
+ },
+ {
+   "Latitude": 41.13,
+   "Longtitude": -100.68,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 227,
+   "Temperature [C]": -49.6,
+   "Relative Humidity [%]": 10,
+   "Wind Direction [deg]": 310,
+   "Wind Speed [knot]": 53
+ },
+ {
+   "Latitude": 41.13,
+   "Longtitude": -100.68,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 124,
+   "Temperature [C]": -54.5,
+   "Relative Humidity [%]": 11,
+   "Wind Direction [deg]": 296,
+   "Wind Speed [knot]": 43
+ },
+ {
+   "Latitude": 41.13,
+   "Longtitude": -100.68,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 50,
+   "Temperature [C]": -58.3,
+   "Relative Humidity [%]": 11,
+   "Wind Direction [deg]": 320,
+   "Wind Speed [knot]": 18
+ },
+ {
+   "Latitude": 41.13,
+   "Longtitude": -100.68,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 27.9,
+   "Temperature [C]": -58.1,
+   "Relative Humidity [%]": 10,
+   "Wind Direction [deg]": 24,
+   "Wind Speed [knot]": 10
+ },
+ {
+   "Latitude": 41.13,
+   "Longtitude": -100.68,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 16.3,
+   "Temperature [C]": -59.2,
+   "Relative Humidity [%]": 9,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 9
+ },
+ {
+   "Latitude": 37.77,
+   "Longtitude": -99.97,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 816.9,
+   "Temperature [C]": -18.2,
+   "Relative Humidity [%]": 61,
+   "Wind Direction [deg]": 345,
+   "Wind Speed [knot]": 29
+ },
+ {
+   "Latitude": 37.77,
+   "Longtitude": -99.97,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 700,
+   "Temperature [C]": -16.5,
+   "Relative Humidity [%]": 18,
+   "Wind Direction [deg]": 330,
+   "Wind Speed [knot]": 39
+ },
+ {
+   "Latitude": 37.77,
+   "Longtitude": -99.97,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 457.9,
+   "Temperature [C]": -28.5,
+   "Relative Humidity [%]": 14,
+   "Wind Direction [deg]": 295,
+   "Wind Speed [knot]": 81
+ },
+ {
+   "Latitude": 37.77,
+   "Longtitude": -99.97,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 255.6,
+   "Temperature [C]": -55.3,
+   "Relative Humidity [%]": 21,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 117
+ },
+ {
+   "Latitude": 37.77,
+   "Longtitude": -99.97,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 90.2,
+   "Temperature [C]": -54.7,
+   "Relative Humidity [%]": 21,
+   "Wind Direction [deg]": 277,
+   "Wind Speed [knot]": 36
+ },
+ {
+   "Latitude": 45.45,
+   "Longtitude": -98.43,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 925,
+   "Temperature [C]": -20.3,
+   "Relative Humidity [%]": 78,
+   "Wind Direction [deg]": 5,
+   "Wind Speed [knot]": 27
+ },
+ {
+   "Latitude": 45.45,
+   "Longtitude": -98.43,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 810,
+   "Temperature [C]": -17.1,
+   "Relative Humidity [%]": 84,
+   "Wind Direction [deg]": 358,
+   "Wind Speed [knot]": 24
+ },
+ {
+   "Latitude": 45.45,
+   "Longtitude": -98.43,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 692.6,
+   "Temperature [C]": -19.2,
+   "Relative Humidity [%]": 69,
+   "Wind Direction [deg]": 0,
+   "Wind Speed [knot]": 18
+ },
+ {
+   "Latitude": 45.45,
+   "Longtitude": -98.43,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 514,
+   "Temperature [C]": -33.5,
+   "Relative Humidity [%]": 61,
+   "Wind Direction [deg]": 355,
+   "Wind Speed [knot]": 16
+ },
+ {
+   "Latitude": 45.45,
+   "Longtitude": -98.43,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 282.9,
+   "Temperature [C]": -54.5,
+   "Relative Humidity [%]": 40,
+   "Wind Direction [deg]": 355,
+   "Wind Speed [knot]": 29
+ },
+ {
+   "Latitude": 45.45,
+   "Longtitude": -98.43,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 139,
+   "Temperature [C]": -51.3,
+   "Relative Humidity [%]": 11,
+   "Wind Direction [deg]": 340,
+   "Wind Speed [knot]": 27
+ },
+ {
+   "Latitude": 45.45,
+   "Longtitude": -98.43,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 60.4,
+   "Temperature [C]": -53.5,
+   "Relative Humidity [%]": 6,
+   "Wind Direction [deg]": 308,
+   "Wind Speed [knot]": 24
+ },
+ {
+   "Latitude": 45.45,
+   "Longtitude": -98.43,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 22.1,
+   "Temperature [C]": -58.9,
+   "Relative Humidity [%]": 5,
+   "Wind Direction [deg]": 294,
+   "Wind Speed [knot]": 20
+ },
+ {
+   "Latitude": 45.45,
+   "Longtitude": -98.43,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 17,
+   "Temperature [C]": -57.3,
+   "Relative Humidity [%]": 3,
+   "Wind Direction [deg]": 275,
+   "Wind Speed [knot]": 21
+ },
+ {
+   "Latitude": 27.76,
+   "Longtitude": -97.5,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 916.8,
+   "Temperature [C]": -3,
+   "Relative Humidity [%]": 73,
+   "Wind Direction [deg]": 355,
+   "Wind Speed [knot]": 27
+ },
+ {
+   "Latitude": 27.76,
+   "Longtitude": -97.5,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 780,
+   "Temperature [C]": 2.8,
+   "Relative Humidity [%]": 44,
+   "Wind Direction [deg]": 244,
+   "Wind Speed [knot]": 18
+ },
+ {
+   "Latitude": 27.76,
+   "Longtitude": -97.5,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 682,
+   "Temperature [C]": -0.1,
+   "Relative Humidity [%]": 24,
+   "Wind Direction [deg]": 295,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 27.76,
+   "Longtitude": -97.5,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 604,
+   "Temperature [C]": -5.7,
+   "Relative Humidity [%]": 3,
+   "Wind Direction [deg]": 285,
+   "Wind Speed [knot]": 23
+ },
+ {
+   "Latitude": 27.76,
+   "Longtitude": -97.5,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 238,
+   "Temperature [C]": -47.2,
+   "Relative Humidity [%]": 15,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 129
+ },
+ {
+   "Latitude": 27.76,
+   "Longtitude": -97.5,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 138,
+   "Temperature [C]": -73.9,
+   "Relative Humidity [%]": 24,
+   "Wind Direction [deg]": 260,
+   "Wind Speed [knot]": 117
+ },
+ {
+   "Latitude": 27.76,
+   "Longtitude": -97.5,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 58.1,
+   "Temperature [C]": -67.2,
+   "Relative Humidity [%]": 20,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 29
+ },
+ {
+   "Latitude": 27.76,
+   "Longtitude": -97.5,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 26.5,
+   "Temperature [C]": -53.9,
+   "Relative Humidity [%]": 8,
+   "Wind Direction [deg]": 245,
+   "Wind Speed [knot]": 25
+ },
+ {
+   "Latitude": 27.76,
+   "Longtitude": -97.5,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 9.9,
+   "Temperature [C]": -52.5,
+   "Relative Humidity [%]": 2,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 64
+ },
+ {
+   "Latitude": 36.62,
+   "Longtitude": -97.48,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 925,
+   "Temperature [C]": -14.5,
+   "Relative Humidity [%]": 60,
+   "Wind Direction [deg]": 340,
+   "Wind Speed [knot]": 29
+ },
+ {
+   "Latitude": 36.62,
+   "Longtitude": -97.48,
+   "Height [m]": 2500,
+   "Pressure [hPa]": 752.9,
+   "Temperature [C]": -15.1,
+   "Relative Humidity [%]": 39,
+   "Wind Direction [deg]": 340,
+   "Wind Speed [knot]": 32
+ },
+ {
+   "Latitude": 36.62,
+   "Longtitude": -97.48,
+   "Height [m]": 4000,
+   "Pressure [hPa]": 589.8,
+   "Temperature [C]": -19.4,
+   "Relative Humidity [%]": 6,
+   "Wind Direction [deg]": 310,
+   "Wind Speed [knot]": 60
+ },
+ {
+   "Latitude": 36.62,
+   "Longtitude": -97.48,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 284,
+   "Temperature [C]": -48.7,
+   "Relative Humidity [%]": 34,
+   "Wind Direction [deg]": 272,
+   "Wind Speed [knot]": 126
+ },
+ {
+   "Latitude": 36.62,
+   "Longtitude": -97.48,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 113.9,
+   "Temperature [C]": -58.6,
+   "Relative Humidity [%]": 2,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 66
+ },
+ {
+   "Latitude": 35.18,
+   "Longtitude": -97.44,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 925,
+   "Temperature [C]": -11.9,
+   "Relative Humidity [%]": 43,
+   "Wind Direction [deg]": 335,
+   "Wind Speed [knot]": 23
+ },
+ {
+   "Latitude": 35.18,
+   "Longtitude": -97.44,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 815.6,
+   "Temperature [C]": -13.7,
+   "Relative Humidity [%]": 52,
+   "Wind Direction [deg]": 345,
+   "Wind Speed [knot]": 42
+ },
+ {
+   "Latitude": 35.18,
+   "Longtitude": -97.44,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 663,
+   "Temperature [C]": -13.5,
+   "Relative Humidity [%]": 5,
+   "Wind Direction [deg]": 307,
+   "Wind Speed [knot]": 52
+ },
+ {
+   "Latitude": 35.18,
+   "Longtitude": -97.44,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 515,
+   "Temperature [C]": -17.5,
+   "Relative Humidity [%]": 7,
+   "Wind Direction [deg]": 288,
+   "Wind Speed [knot]": 75
+ },
+ {
+   "Latitude": 35.18,
+   "Longtitude": -97.44,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 208,
+   "Temperature [C]": -62.7,
+   "Relative Humidity [%]": 38,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 131
+ },
+ {
+   "Latitude": 35.18,
+   "Longtitude": -97.44,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 112,
+   "Temperature [C]": -60.1,
+   "Relative Humidity [%]": 34,
+   "Wind Direction [deg]": 262,
+   "Wind Speed [knot]": 71
+ },
+ {
+   "Latitude": 35.18,
+   "Longtitude": -97.44,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 49.7,
+   "Temperature [C]": -60.9,
+   "Relative Humidity [%]": 30,
+   "Wind Direction [deg]": 260,
+   "Wind Speed [knot]": 25
+ },
+ {
+   "Latitude": 35.18,
+   "Longtitude": -97.44,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 26.5,
+   "Temperature [C]": -57.7,
+   "Relative Humidity [%]": 30,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 11
+ },
+ {
+   "Latitude": 32.83,
+   "Longtitude": -97.3,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 864,
+   "Temperature [C]": -6.9,
+   "Relative Humidity [%]": 22,
+   "Wind Direction [deg]": 348,
+   "Wind Speed [knot]": 33
+ },
+ {
+   "Latitude": 32.83,
+   "Longtitude": -97.3,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 763,
+   "Temperature [C]": -4.7,
+   "Relative Humidity [%]": 4,
+   "Wind Direction [deg]": 334,
+   "Wind Speed [knot]": 30
+ },
+ {
+   "Latitude": 32.83,
+   "Longtitude": -97.3,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 711,
+   "Temperature [C]": -6.7,
+   "Relative Humidity [%]": 62,
+   "Wind Direction [deg]": 312,
+   "Wind Speed [knot]": 23
+ },
+ {
+   "Latitude": 32.83,
+   "Longtitude": -97.3,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 583,
+   "Temperature [C]": -10.3,
+   "Relative Humidity [%]": 72,
+   "Wind Direction [deg]": 282,
+   "Wind Speed [knot]": 58
+ },
+ {
+   "Latitude": 32.83,
+   "Longtitude": -97.3,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 250,
+   "Temperature [C]": -52.1,
+   "Relative Humidity [%]": 29,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 104
+ },
+ {
+   "Latitude": 32.83,
+   "Longtitude": -97.3,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 135,
+   "Temperature [C]": -62.9,
+   "Relative Humidity [%]": 29,
+   "Wind Direction [deg]": 268,
+   "Wind Speed [knot]": 92
+ },
+ {
+   "Latitude": 32.83,
+   "Longtitude": -97.3,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 57.7,
+   "Temperature [C]": -62.6,
+   "Relative Humidity [%]": 25,
+   "Wind Direction [deg]": 275,
+   "Wind Speed [knot]": 25
+ },
+ {
+   "Latitude": 32.83,
+   "Longtitude": -97.3,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 24,
+   "Temperature [C]": -55.1,
+   "Relative Humidity [%]": 16,
+   "Wind Direction [deg]": 285,
+   "Wind Speed [knot]": 17
+ },
+ {
+   "Latitude": 32.83,
+   "Longtitude": -97.3,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 8.8,
+   "Temperature [C]": -51.3,
+   "Relative Humidity [%]": 4,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 40
+ },
+ {
+   "Latitude": 41.31,
+   "Longtitude": -96.36,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 880.3,
+   "Temperature [C]": -16.7,
+   "Relative Humidity [%]": 91,
+   "Wind Direction [deg]": 0,
+   "Wind Speed [knot]": 44
+ },
+ {
+   "Latitude": 41.31,
+   "Longtitude": -96.36,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 745,
+   "Temperature [C]": -16.9,
+   "Relative Humidity [%]": 73,
+   "Wind Direction [deg]": 350,
+   "Wind Speed [knot]": 32
+ },
+ {
+   "Latitude": 41.31,
+   "Longtitude": -96.36,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 550,
+   "Temperature [C]": -32.1,
+   "Relative Humidity [%]": 55,
+   "Wind Direction [deg]": 352,
+   "Wind Speed [knot]": 28
+ },
+ {
+   "Latitude": 41.31,
+   "Longtitude": -96.36,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 239,
+   "Temperature [C]": -47.9,
+   "Relative Humidity [%]": 14,
+   "Wind Direction [deg]": 295,
+   "Wind Speed [knot]": 47
+ },
+ {
+   "Latitude": 41.31,
+   "Longtitude": -96.36,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 115,
+   "Temperature [C]": -52.7,
+   "Relative Humidity [%]": 7,
+   "Wind Direction [deg]": 272,
+   "Wind Speed [knot]": 45
+ },
+ {
+   "Latitude": 41.31,
+   "Longtitude": -96.36,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 57,
+   "Temperature [C]": -59.3,
+   "Relative Humidity [%]": 8,
+   "Wind Direction [deg]": 289,
+   "Wind Speed [knot]": 33
+ },
+ {
+   "Latitude": 41.31,
+   "Longtitude": -96.36,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 27.7,
+   "Temperature [C]": -56.9,
+   "Relative Humidity [%]": 4,
+   "Wind Direction [deg]": 5,
+   "Wind Speed [knot]": 18
+ },
+ {
+   "Latitude": 41.31,
+   "Longtitude": -96.36,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 16.1,
+   "Temperature [C]": -59.5,
+   "Relative Humidity [%]": 3,
+   "Wind Direction [deg]": 246,
+   "Wind Speed [knot]": 16
+ },
+ {
+   "Latitude": 39.07,
+   "Longtitude": -95.62,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 916.3,
+   "Temperature [C]": -20.3,
+   "Relative Humidity [%]": 84,
+   "Wind Direction [deg]": 340,
+   "Wind Speed [knot]": 41
+ },
+ {
+   "Latitude": 39.07,
+   "Longtitude": -95.62,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 811.1,
+   "Temperature [C]": -16.6,
+   "Relative Humidity [%]": 86,
+   "Wind Direction [deg]": 340,
+   "Wind Speed [knot]": 38
+ },
+ {
+   "Latitude": 39.07,
+   "Longtitude": -95.62,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 634.1,
+   "Temperature [C]": -24,
+   "Relative Humidity [%]": 54,
+   "Wind Direction [deg]": 340,
+   "Wind Speed [knot]": 41
+ },
+ {
+   "Latitude": 39.07,
+   "Longtitude": -95.62,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 559.2,
+   "Temperature [C]": -27.1,
+   "Relative Humidity [%]": 28,
+   "Wind Direction [deg]": 310,
+   "Wind Speed [knot]": 32
+ },
+ {
+   "Latitude": 39.07,
+   "Longtitude": -95.62,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 270,
+   "Temperature [C]": -46.7,
+   "Relative Humidity [%]": 16,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 92
+ },
+ {
+   "Latitude": 39.07,
+   "Longtitude": -95.62,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 126,
+   "Temperature [C]": -53.5,
+   "Relative Humidity [%]": 17,
+   "Wind Direction [deg]": 278,
+   "Wind Speed [knot]": 53
+ },
+ {
+   "Latitude": 39.07,
+   "Longtitude": -95.62,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 47.3,
+   "Temperature [C]": -54.4,
+   "Relative Humidity [%]": 16,
+   "Wind Direction [deg]": 345,
+   "Wind Speed [knot]": 23
+ },
+ {
+   "Latitude": 39.07,
+   "Longtitude": -95.62,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 30.6,
+   "Temperature [C]": -59.5,
+   "Relative Humidity [%]": 17,
+   "Wind Direction [deg]": 275,
+   "Wind Speed [knot]": 11
+ },
+ {
+   "Latitude": 32.46,
+   "Longtitude": -93.78,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 925,
+   "Temperature [C]": -8.1,
+   "Relative Humidity [%]": 57,
+   "Wind Direction [deg]": 340,
+   "Wind Speed [knot]": 17
+ },
+ {
+   "Latitude": 32.46,
+   "Longtitude": -93.78,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 748,
+   "Temperature [C]": -3.1,
+   "Relative Humidity [%]": 2,
+   "Wind Direction [deg]": 313,
+   "Wind Speed [knot]": 35
+ },
+ {
+   "Latitude": 32.46,
+   "Longtitude": -93.78,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 647,
+   "Temperature [C]": -7.1,
+   "Relative Humidity [%]": 41,
+   "Wind Direction [deg]": 274,
+   "Wind Speed [knot]": 53
+ },
+ {
+   "Latitude": 32.46,
+   "Longtitude": -93.78,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 587,
+   "Temperature [C]": -8.7,
+   "Relative Humidity [%]": 72,
+   "Wind Direction [deg]": 275,
+   "Wind Speed [knot]": 62
+ },
+ {
+   "Latitude": 32.46,
+   "Longtitude": -93.78,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 208,
+   "Temperature [C]": -57.5,
+   "Relative Humidity [%]": 23,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 154
+ },
+ {
+   "Latitude": 32.46,
+   "Longtitude": -93.78,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 120,
+   "Temperature [C]": -60.5,
+   "Relative Humidity [%]": 22,
+   "Wind Direction [deg]": 260,
+   "Wind Speed [knot]": 84
+ },
+ {
+   "Latitude": 32.46,
+   "Longtitude": -93.78,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 49.9,
+   "Temperature [C]": -63.6,
+   "Relative Humidity [%]": 21,
+   "Wind Direction [deg]": 285,
+   "Wind Speed [knot]": 25
+ },
+ {
+   "Latitude": 32.46,
+   "Longtitude": -93.78,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 29.4,
+   "Temperature [C]": -59.9,
+   "Relative Humidity [%]": 14,
+   "Wind Direction [deg]": 276,
+   "Wind Speed [knot]": 18
+ },
+ {
+   "Latitude": 32.46,
+   "Longtitude": -93.78,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 13.5,
+   "Temperature [C]": -51.3,
+   "Relative Humidity [%]": 5,
+   "Wind Direction [deg]": 274,
+   "Wind Speed [knot]": 41
+ },
+ {
+   "Latitude": 44.85,
+   "Longtitude": -93.56,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 931,
+   "Temperature [C]": -17.7,
+   "Relative Humidity [%]": 89,
+   "Wind Direction [deg]": 4,
+   "Wind Speed [knot]": 27
+ },
+ {
+   "Latitude": 44.85,
+   "Longtitude": -93.56,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 850,
+   "Temperature [C]": -13.5,
+   "Relative Humidity [%]": 94,
+   "Wind Direction [deg]": 25,
+   "Wind Speed [knot]": 20
+ },
+ {
+   "Latitude": 44.85,
+   "Longtitude": -93.56,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 716.9,
+   "Temperature [C]": -18.9,
+   "Relative Humidity [%]": 89,
+   "Wind Direction [deg]": 40,
+   "Wind Speed [knot]": 23
+ },
+ {
+   "Latitude": 44.85,
+   "Longtitude": -93.56,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 571,
+   "Temperature [C]": -28.3,
+   "Relative Humidity [%]": 64,
+   "Wind Direction [deg]": 36,
+   "Wind Speed [knot]": 26
+ },
+ {
+   "Latitude": 44.85,
+   "Longtitude": -93.56,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 255,
+   "Temperature [C]": -53.3,
+   "Relative Humidity [%]": 29,
+   "Wind Direction [deg]": 354,
+   "Wind Speed [knot]": 20
+ },
+ {
+   "Latitude": 44.85,
+   "Longtitude": -93.56,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 147,
+   "Temperature [C]": -51.1,
+   "Relative Humidity [%]": 2,
+   "Wind Direction [deg]": 300,
+   "Wind Speed [knot]": 25
+ },
+ {
+   "Latitude": 44.85,
+   "Longtitude": -93.56,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 46.7,
+   "Temperature [C]": -55,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 295,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 44.85,
+   "Longtitude": -93.56,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 22.7,
+   "Temperature [C]": -57.6,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 345,
+   "Wind Speed [knot]": 20
+ },
+ {
+   "Latitude": 44.85,
+   "Longtitude": -93.56,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 14,
+   "Temperature [C]": -55.7,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 293,
+   "Wind Speed [knot]": 26
+ },
+ {
+   "Latitude": 37.23,
+   "Longtitude": -93.38,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 885,
+   "Temperature [C]": -19.5,
+   "Relative Humidity [%]": 93,
+   "Wind Direction [deg]": 320,
+   "Wind Speed [knot]": 35
+ },
+ {
+   "Latitude": 37.23,
+   "Longtitude": -93.38,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 776.9,
+   "Temperature [C]": -18.4,
+   "Relative Humidity [%]": 60,
+   "Wind Direction [deg]": 315,
+   "Wind Speed [knot]": 45
+ },
+ {
+   "Latitude": 37.23,
+   "Longtitude": -93.38,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 646,
+   "Temperature [C]": -21.3,
+   "Relative Humidity [%]": 33,
+   "Wind Direction [deg]": 307,
+   "Wind Speed [knot]": 50
+ },
+ {
+   "Latitude": 37.23,
+   "Longtitude": -93.38,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 527,
+   "Temperature [C]": -25.1,
+   "Relative Humidity [%]": 23,
+   "Wind Direction [deg]": 288,
+   "Wind Speed [knot]": 85
+ },
+ {
+   "Latitude": 37.23,
+   "Longtitude": -93.38,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 291.2,
+   "Temperature [C]": -47.6,
+   "Relative Humidity [%]": 22,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 149
+ },
+ {
+   "Latitude": 37.23,
+   "Longtitude": -93.38,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 114,
+   "Temperature [C]": -55.1,
+   "Relative Humidity [%]": 21,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 72
+ },
+ {
+   "Latitude": 37.23,
+   "Longtitude": -93.38,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 54.5,
+   "Temperature [C]": -55.6,
+   "Relative Humidity [%]": 21,
+   "Wind Direction [deg]": 335,
+   "Wind Speed [knot]": 13
+ },
+ {
+   "Latitude": 37.23,
+   "Longtitude": -93.38,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 26.4,
+   "Temperature [C]": -58.8,
+   "Relative Humidity [%]": 23,
+   "Wind Direction [deg]": 310,
+   "Wind Speed [knot]": 14
+ },
+ {
+   "Latitude": 37.23,
+   "Longtitude": -93.38,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 9.1,
+   "Temperature [C]": -55.5,
+   "Relative Humidity [%]": 21,
+   "Wind Direction [deg]": 291,
+   "Wind Speed [knot]": 29
+ },
+ {
+   "Latitude": 48.56,
+   "Longtitude": -93.38,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 923,
+   "Temperature [C]": -18.9,
+   "Relative Humidity [%]": 88,
+   "Wind Direction [deg]": 30,
+   "Wind Speed [knot]": 16
+ },
+ {
+   "Latitude": 48.56,
+   "Longtitude": -93.38,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 788,
+   "Temperature [C]": -16.5,
+   "Relative Humidity [%]": 94,
+   "Wind Direction [deg]": 63,
+   "Wind Speed [knot]": 10
+ },
+ {
+   "Latitude": 48.56,
+   "Longtitude": -93.38,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 689.8,
+   "Temperature [C]": -20.8,
+   "Relative Humidity [%]": 40,
+   "Wind Direction [deg]": 10,
+   "Wind Speed [knot]": 16
+ },
+ {
+   "Latitude": 48.56,
+   "Longtitude": -93.38,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 535.4,
+   "Temperature [C]": -32.4,
+   "Relative Humidity [%]": 69,
+   "Wind Direction [deg]": 30,
+   "Wind Speed [knot]": 5
+ },
+ {
+   "Latitude": 48.56,
+   "Longtitude": -93.38,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 220,
+   "Temperature [C]": -52.7,
+   "Relative Humidity [%]": 15,
+   "Wind Direction [deg]": 349,
+   "Wind Speed [knot]": 19
+ },
+ {
+   "Latitude": 34.83,
+   "Longtitude": -92.27,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 869,
+   "Temperature [C]": -15.1,
+   "Relative Humidity [%]": 69,
+   "Wind Direction [deg]": 338,
+   "Wind Speed [knot]": 28
+ },
+ {
+   "Latitude": 34.83,
+   "Longtitude": -92.27,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 779.2,
+   "Temperature [C]": -8.5,
+   "Relative Humidity [%]": 10,
+   "Wind Direction [deg]": 305,
+   "Wind Speed [knot]": 43
+ },
+ {
+   "Latitude": 34.83,
+   "Longtitude": -92.27,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 665.2,
+   "Temperature [C]": -12.7,
+   "Relative Humidity [%]": 2,
+   "Wind Direction [deg]": 285,
+   "Wind Speed [knot]": 46
+ },
+ {
+   "Latitude": 34.83,
+   "Longtitude": -92.27,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 550,
+   "Temperature [C]": -14.1,
+   "Relative Humidity [%]": 2,
+   "Wind Direction [deg]": 276,
+   "Wind Speed [knot]": 84
+ },
+ {
+   "Latitude": 34.83,
+   "Longtitude": -92.27,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 250,
+   "Temperature [C]": -53.1,
+   "Relative Humidity [%]": 37,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 136
+ },
+ {
+   "Latitude": 34.83,
+   "Longtitude": -92.27,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 133,
+   "Temperature [C]": -56.7,
+   "Relative Humidity [%]": 31,
+   "Wind Direction [deg]": 267,
+   "Wind Speed [knot]": 89
+ },
+ {
+   "Latitude": 34.83,
+   "Longtitude": -92.27,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 47.5,
+   "Temperature [C]": -59.9,
+   "Relative Humidity [%]": 30,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 29
+ },
+ {
+   "Latitude": 34.83,
+   "Longtitude": -92.27,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 26.5,
+   "Temperature [C]": -59.5,
+   "Relative Humidity [%]": 26,
+   "Wind Direction [deg]": 290,
+   "Wind Speed [knot]": 18
+ },
+ {
+   "Latitude": 34.83,
+   "Longtitude": -92.27,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 15.7,
+   "Temperature [C]": -53.3,
+   "Relative Humidity [%]": 22,
+   "Wind Direction [deg]": 273,
+   "Wind Speed [knot]": 35
+ },
+ {
+   "Latitude": 41.61,
+   "Longtitude": -90.58,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 868.6,
+   "Temperature [C]": -10.8,
+   "Relative Humidity [%]": 92,
+   "Wind Direction [deg]": 25,
+   "Wind Speed [knot]": 33
+ },
+ {
+   "Latitude": 41.61,
+   "Longtitude": -90.58,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 709.5,
+   "Temperature [C]": -21,
+   "Relative Humidity [%]": 74,
+   "Wind Direction [deg]": 20,
+   "Wind Speed [knot]": 36
+ },
+ {
+   "Latitude": 41.61,
+   "Longtitude": -90.58,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 527.3,
+   "Temperature [C]": -33,
+   "Relative Humidity [%]": 67,
+   "Wind Direction [deg]": 20,
+   "Wind Speed [knot]": 33
+ },
+ {
+   "Latitude": 41.61,
+   "Longtitude": -90.58,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 235,
+   "Temperature [C]": -47.5,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 288,
+   "Wind Speed [knot]": 39
+ },
+ {
+   "Latitude": 41.61,
+   "Longtitude": -90.58,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 110,
+   "Temperature [C]": -51.5,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 285,
+   "Wind Speed [knot]": 32
+ },
+ {
+   "Latitude": 41.61,
+   "Longtitude": -90.58,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 50,
+   "Temperature [C]": -56.9,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 310,
+   "Wind Speed [knot]": 30
+ },
+ {
+   "Latitude": 41.61,
+   "Longtitude": -90.58,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 26.3,
+   "Temperature [C]": -57.2,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 310,
+   "Wind Speed [knot]": 21
+ },
+ {
+   "Latitude": 41.61,
+   "Longtitude": -90.58,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 12.1,
+   "Temperature [C]": -56.9,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 305,
+   "Wind Speed [knot]": 37
+ },
+ {
+   "Latitude": 32.31,
+   "Longtitude": -90.08,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 912.9,
+   "Temperature [C]": -6.6,
+   "Relative Humidity [%]": 94,
+   "Wind Direction [deg]": 335,
+   "Wind Speed [knot]": 20
+ },
+ {
+   "Latitude": 32.31,
+   "Longtitude": -90.08,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 812.7,
+   "Temperature [C]": -3.2,
+   "Relative Humidity [%]": 77,
+   "Wind Direction [deg]": 295,
+   "Wind Speed [knot]": 24
+ },
+ {
+   "Latitude": 32.31,
+   "Longtitude": -90.08,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 740,
+   "Temperature [C]": -0.7,
+   "Relative Humidity [%]": 79,
+   "Wind Direction [deg]": 263,
+   "Wind Speed [knot]": 62
+ },
+ {
+   "Latitude": 32.31,
+   "Longtitude": -90.08,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 500,
+   "Temperature [C]": -17.7,
+   "Relative Humidity [%]": 54,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 70
+ },
+ {
+   "Latitude": 32.31,
+   "Longtitude": -90.08,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 300,
+   "Temperature [C]": -44.7,
+   "Relative Humidity [%]": 51,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 104
+ },
+ {
+   "Latitude": 32.31,
+   "Longtitude": -90.08,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 105.2,
+   "Temperature [C]": -64.3,
+   "Relative Humidity [%]": 16,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 91
+ },
+ {
+   "Latitude": 32.31,
+   "Longtitude": -90.08,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 50,
+   "Temperature [C]": -61.5,
+   "Relative Humidity [%]": 14,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 32
+ },
+ {
+   "Latitude": 32.31,
+   "Longtitude": -90.08,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 26.5,
+   "Temperature [C]": -56.2,
+   "Relative Humidity [%]": 6,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 20
+ },
+ {
+   "Latitude": 32.31,
+   "Longtitude": -90.08,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 10,
+   "Temperature [C]": -52.5,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 55
+ },
+ {
+   "Latitude": 30.33,
+   "Longtitude": -89.77,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 947,
+   "Temperature [C]": 4.2,
+   "Relative Humidity [%]": 100,
+   "Wind Direction [deg]": 350,
+   "Wind Speed [knot]": 18
+ },
+ {
+   "Latitude": 30.33,
+   "Longtitude": -89.77,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 786.3,
+   "Temperature [C]": 3.3,
+   "Relative Humidity [%]": 100,
+   "Wind Direction [deg]": 240,
+   "Wind Speed [knot]": 33
+ },
+ {
+   "Latitude": 30.33,
+   "Longtitude": -89.77,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 675.5,
+   "Temperature [C]": -3.7,
+   "Relative Humidity [%]": 95,
+   "Wind Direction [deg]": 275,
+   "Wind Speed [knot]": 47
+ },
+ {
+   "Latitude": 30.33,
+   "Longtitude": -89.77,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 554,
+   "Temperature [C]": -13.3,
+   "Relative Humidity [%]": 30,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 62
+ },
+ {
+   "Latitude": 30.33,
+   "Longtitude": -89.77,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 267,
+   "Temperature [C]": -48.3,
+   "Relative Humidity [%]": 12,
+   "Wind Direction [deg]": 266,
+   "Wind Speed [knot]": 99
+ },
+ {
+   "Latitude": 30.33,
+   "Longtitude": -89.77,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 129.9,
+   "Temperature [C]": -64.1,
+   "Relative Humidity [%]": 18,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 107
+ },
+ {
+   "Latitude": 30.33,
+   "Longtitude": -89.77,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 50,
+   "Temperature [C]": -64.7,
+   "Relative Humidity [%]": 18,
+   "Wind Direction [deg]": 285,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 30.33,
+   "Longtitude": -89.77,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 24.1,
+   "Temperature [C]": -58.2,
+   "Relative Humidity [%]": 14,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 34
+ },
+ {
+   "Latitude": 30.33,
+   "Longtitude": -89.77,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 10,
+   "Temperature [C]": -53.1,
+   "Relative Humidity [%]": 8,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 66
+ },
+ {
+   "Latitude": 40.15,
+   "Longtitude": -89.33,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 854,
+   "Temperature [C]": -17.7,
+   "Relative Humidity [%]": 90,
+   "Wind Direction [deg]": 311,
+   "Wind Speed [knot]": 25
+ },
+ {
+   "Latitude": 40.15,
+   "Longtitude": -89.33,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 700,
+   "Temperature [C]": -22.9,
+   "Relative Humidity [%]": 82,
+   "Wind Direction [deg]": 315,
+   "Wind Speed [knot]": 27
+ },
+ {
+   "Latitude": 40.15,
+   "Longtitude": -89.33,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 470,
+   "Temperature [C]": -36.3,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 303,
+   "Wind Speed [knot]": 28
+ },
+ {
+   "Latitude": 40.15,
+   "Longtitude": -89.33,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 281.2,
+   "Temperature [C]": -44.3,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 57
+ },
+ {
+   "Latitude": 40.15,
+   "Longtitude": -89.33,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 120,
+   "Temperature [C]": -51.1,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 277,
+   "Wind Speed [knot]": 43
+ },
+ {
+   "Latitude": 40.15,
+   "Longtitude": -89.33,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 54.1,
+   "Temperature [C]": -57.9,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 295,
+   "Wind Speed [knot]": 21
+ },
+ {
+   "Latitude": 40.15,
+   "Longtitude": -89.33,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 22.8,
+   "Temperature [C]": -59.1,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 300,
+   "Wind Speed [knot]": 11
+ },
+ {
+   "Latitude": 40.15,
+   "Longtitude": -89.33,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 9.1,
+   "Temperature [C]": -55.6,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 285,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 44.48,
+   "Longtitude": -88.13,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 885,
+   "Temperature [C]": -8.9,
+   "Relative Humidity [%]": 94,
+   "Wind Direction [deg]": 51,
+   "Wind Speed [knot]": 33
+ },
+ {
+   "Latitude": 44.48,
+   "Longtitude": -88.13,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 741.4,
+   "Temperature [C]": -17.1,
+   "Relative Humidity [%]": 84,
+   "Wind Direction [deg]": 70,
+   "Wind Speed [knot]": 38
+ },
+ {
+   "Latitude": 44.48,
+   "Longtitude": -88.13,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 504,
+   "Temperature [C]": -34.3,
+   "Relative Humidity [%]": 63,
+   "Wind Direction [deg]": 76,
+   "Wind Speed [knot]": 27
+ },
+ {
+   "Latitude": 44.48,
+   "Longtitude": -88.13,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 254.2,
+   "Temperature [C]": -52.1,
+   "Relative Humidity [%]": 24,
+   "Wind Direction [deg]": 350,
+   "Wind Speed [knot]": 4
+ },
+ {
+   "Latitude": 44.48,
+   "Longtitude": -88.13,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 100,
+   "Temperature [C]": -51.5,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 295,
+   "Wind Speed [knot]": 20
+ },
+ {
+   "Latitude": 44.48,
+   "Longtitude": -88.13,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 53.8,
+   "Temperature [C]": -54.7,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 290,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 44.48,
+   "Longtitude": -88.13,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 27.4,
+   "Temperature [C]": -57.5,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 305,
+   "Wind Speed [knot]": 36
+ },
+ {
+   "Latitude": 44.48,
+   "Longtitude": -88.13,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 16.1,
+   "Temperature [C]": -56.1,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 285,
+   "Wind Speed [knot]": 27
+ },
+ {
+   "Latitude": 33.16,
+   "Longtitude": -86.76,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 875.5,
+   "Temperature [C]": -0.7,
+   "Relative Humidity [%]": 99,
+   "Wind Direction [deg]": 260,
+   "Wind Speed [knot]": 27
+ },
+ {
+   "Latitude": 33.16,
+   "Longtitude": -86.76,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 750,
+   "Temperature [C]": -3.7,
+   "Relative Humidity [%]": 100,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 48
+ },
+ {
+   "Latitude": 33.16,
+   "Longtitude": -86.76,
+   "Height [m]": 4000,
+   "Pressure [hPa]": 613,
+   "Temperature [C]": -11.1,
+   "Relative Humidity [%]": 86,
+   "Wind Direction [deg]": 248,
+   "Wind Speed [knot]": 81
+ },
+ {
+   "Latitude": 33.16,
+   "Longtitude": -86.76,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 506.3,
+   "Temperature [C]": -17.3,
+   "Relative Humidity [%]": 75,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 81
+ },
+ {
+   "Latitude": 33.16,
+   "Longtitude": -86.76,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 301,
+   "Temperature [C]": -44.9,
+   "Relative Humidity [%]": 36,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 103
+ },
+ {
+   "Latitude": 36.25,
+   "Longtitude": -86.57,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 907.6,
+   "Temperature [C]": -10.9,
+   "Relative Humidity [%]": 84,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 20
+ },
+ {
+   "Latitude": 36.25,
+   "Longtitude": -86.57,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 804.8,
+   "Temperature [C]": -11.3,
+   "Relative Humidity [%]": 37,
+   "Wind Direction [deg]": 250,
+   "Wind Speed [knot]": 37
+ },
+ {
+   "Latitude": 36.25,
+   "Longtitude": -86.57,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 700,
+   "Temperature [C]": -12.7,
+   "Relative Humidity [%]": 27,
+   "Wind Direction [deg]": 260,
+   "Wind Speed [knot]": 55
+ },
+ {
+   "Latitude": 36.25,
+   "Longtitude": -86.57,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 560.6,
+   "Temperature [C]": -17.6,
+   "Relative Humidity [%]": 26,
+   "Wind Direction [deg]": 260,
+   "Wind Speed [knot]": 84
+ },
+ {
+   "Latitude": 36.25,
+   "Longtitude": -86.57,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 300,
+   "Temperature [C]": -45.9,
+   "Relative Humidity [%]": 24,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 132
+ },
+ {
+   "Latitude": 36.25,
+   "Longtitude": -86.57,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 113.1,
+   "Temperature [C]": -59.2,
+   "Relative Humidity [%]": 26,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 91
+ },
+ {
+   "Latitude": 36.25,
+   "Longtitude": -86.57,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 47.2,
+   "Temperature [C]": -59.2,
+   "Relative Humidity [%]": 34,
+   "Wind Direction [deg]": 290,
+   "Wind Speed [knot]": 21
+ },
+ {
+   "Latitude": 36.25,
+   "Longtitude": -86.57,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 24.5,
+   "Temperature [C]": -58.7,
+   "Relative Humidity [%]": 38,
+   "Wind Direction [deg]": 315,
+   "Wind Speed [knot]": 20
+ },
+ {
+   "Latitude": 36.25,
+   "Longtitude": -86.57,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 8.7,
+   "Temperature [C]": -52.8,
+   "Relative Humidity [%]": 25,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 47
+ },
+ {
+   "Latitude": 44.91,
+   "Longtitude": -84.71,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 892,
+   "Temperature [C]": -11.1,
+   "Relative Humidity [%]": 91,
+   "Wind Direction [deg]": 51,
+   "Wind Speed [knot]": 23
+ },
+ {
+   "Latitude": 44.91,
+   "Longtitude": -84.71,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 803.4,
+   "Temperature [C]": -10.7,
+   "Relative Humidity [%]": 39,
+   "Wind Direction [deg]": 65,
+   "Wind Speed [knot]": 23
+ },
+ {
+   "Latitude": 44.91,
+   "Longtitude": -84.71,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 712.3,
+   "Temperature [C]": -17.1,
+   "Relative Humidity [%]": 76,
+   "Wind Direction [deg]": 65,
+   "Wind Speed [knot]": 28
+ },
+ {
+   "Latitude": 44.91,
+   "Longtitude": -84.71,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 531.5,
+   "Temperature [C]": -31.5,
+   "Relative Humidity [%]": 71,
+   "Wind Direction [deg]": 95,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 44.91,
+   "Longtitude": -84.71,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 220.9,
+   "Temperature [C]": -53.3,
+   "Relative Humidity [%]": 20,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 12
+ },
+ {
+   "Latitude": 44.91,
+   "Longtitude": -84.71,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 109,
+   "Temperature [C]": -51.8,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 295,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 44.91,
+   "Longtitude": -84.71,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 44.1,
+   "Temperature [C]": -57.1,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 300,
+   "Wind Speed [knot]": 18
+ },
+ {
+   "Latitude": 44.91,
+   "Longtitude": -84.71,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 21.4,
+   "Temperature [C]": -59.1,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 300,
+   "Wind Speed [knot]": 27
+ },
+ {
+   "Latitude": 44.91,
+   "Longtitude": -84.71,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 11,
+   "Temperature [C]": -57.7,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 289,
+   "Wind Speed [knot]": 33
+ },
+ {
+   "Latitude": 33.36,
+   "Longtitude": -84.56,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 926,
+   "Temperature [C]": 1.4,
+   "Relative Humidity [%]": 85,
+   "Wind Direction [deg]": 234,
+   "Wind Speed [knot]": 28
+ },
+ {
+   "Latitude": 33.36,
+   "Longtitude": -84.56,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 850,
+   "Temperature [C]": 0.6,
+   "Relative Humidity [%]": 100,
+   "Wind Direction [deg]": 245,
+   "Wind Speed [knot]": 53
+ },
+ {
+   "Latitude": 33.36,
+   "Longtitude": -84.56,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 700,
+   "Temperature [C]": -5.3,
+   "Relative Humidity [%]": 99,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 50
+ },
+ {
+   "Latitude": 33.36,
+   "Longtitude": -84.56,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 542,
+   "Temperature [C]": -15.1,
+   "Relative Humidity [%]": 55,
+   "Wind Direction [deg]": 261,
+   "Wind Speed [knot]": 86
+ },
+ {
+   "Latitude": 33.36,
+   "Longtitude": -84.56,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 220,
+   "Temperature [C]": -59.1,
+   "Relative Humidity [%]": 26,
+   "Wind Direction [deg]": 273,
+   "Wind Speed [knot]": 127
+ },
+ {
+   "Latitude": 33.36,
+   "Longtitude": -84.56,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 110,
+   "Temperature [C]": -63.3,
+   "Relative Humidity [%]": 21,
+   "Wind Direction [deg]": 262,
+   "Wind Speed [knot]": 98
+ },
+ {
+   "Latitude": 33.36,
+   "Longtitude": -84.56,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 44.8,
+   "Temperature [C]": -61.5,
+   "Relative Humidity [%]": 19,
+   "Wind Direction [deg]": 272,
+   "Wind Speed [knot]": 27
+ },
+ {
+   "Latitude": 33.36,
+   "Longtitude": -84.56,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 25.7,
+   "Temperature [C]": -57.7,
+   "Relative Humidity [%]": 18,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 32
+ },
+ {
+   "Latitude": 30.45,
+   "Longtitude": -84.3,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 925,
+   "Temperature [C]": 6,
+   "Relative Humidity [%]": 42,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 12
+ },
+ {
+   "Latitude": 30.45,
+   "Longtitude": -84.3,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 815.9,
+   "Temperature [C]": 3.4,
+   "Relative Humidity [%]": 77,
+   "Wind Direction [deg]": 250,
+   "Wind Speed [knot]": 21
+ },
+ {
+   "Latitude": 30.45,
+   "Longtitude": -84.3,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 728.5,
+   "Temperature [C]": -0.9,
+   "Relative Humidity [%]": 96,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 35
+ },
+ {
+   "Latitude": 30.45,
+   "Longtitude": -84.3,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 533,
+   "Temperature [C]": -10.7,
+   "Relative Humidity [%]": 16,
+   "Wind Direction [deg]": 266,
+   "Wind Speed [knot]": 55
+ },
+ {
+   "Latitude": 30.45,
+   "Longtitude": -84.3,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 294.7,
+   "Temperature [C]": -43.2,
+   "Relative Humidity [%]": 25,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 84
+ },
+ {
+   "Latitude": 30.45,
+   "Longtitude": -84.3,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 120,
+   "Temperature [C]": -66.1,
+   "Relative Humidity [%]": 23,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 103
+ },
+ {
+   "Latitude": 30.45,
+   "Longtitude": -84.3,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 60.9,
+   "Temperature [C]": -64.4,
+   "Relative Humidity [%]": 24,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 34
+ },
+ {
+   "Latitude": 30.45,
+   "Longtitude": -84.3,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 20.6,
+   "Temperature [C]": -55.1,
+   "Relative Humidity [%]": 14,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 42
+ },
+ {
+   "Latitude": 30.45,
+   "Longtitude": -84.3,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 10.3,
+   "Temperature [C]": -52.4,
+   "Relative Humidity [%]": 7,
+   "Wind Direction [deg]": 260,
+   "Wind Speed [knot]": 66
+ },
+ {
+   "Latitude": 39.41,
+   "Longtitude": -83.81,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 850,
+   "Temperature [C]": -12.1,
+   "Relative Humidity [%]": 94,
+   "Wind Direction [deg]": 260,
+   "Wind Speed [knot]": 20
+ },
+ {
+   "Latitude": 39.41,
+   "Longtitude": -83.81,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 732,
+   "Temperature [C]": -17.5,
+   "Relative Humidity [%]": 41,
+   "Wind Direction [deg]": 240,
+   "Wind Speed [knot]": 30
+ },
+ {
+   "Latitude": 39.41,
+   "Longtitude": -83.81,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 538,
+   "Temperature [C]": -28.7,
+   "Relative Humidity [%]": 25,
+   "Wind Direction [deg]": 238,
+   "Wind Speed [knot]": 61
+ },
+ {
+   "Latitude": 39.41,
+   "Longtitude": -83.81,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 276,
+   "Temperature [C]": -49.5,
+   "Relative Humidity [%]": 20,
+   "Wind Direction [deg]": 253,
+   "Wind Speed [knot]": 105
+ },
+ {
+   "Latitude": 39.41,
+   "Longtitude": -83.81,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 114,
+   "Temperature [C]": -50.7,
+   "Relative Humidity [%]": 20,
+   "Wind Direction [deg]": 253,
+   "Wind Speed [knot]": 48
+ },
+ {
+   "Latitude": 39.41,
+   "Longtitude": -83.81,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 53.9,
+   "Temperature [C]": -57.7,
+   "Relative Humidity [%]": 21,
+   "Wind Direction [deg]": 300,
+   "Wind Speed [knot]": 19
+ },
+ {
+   "Latitude": 39.41,
+   "Longtitude": -83.81,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 26.1,
+   "Temperature [C]": -56.1,
+   "Relative Humidity [%]": 21,
+   "Wind Direction [deg]": 260,
+   "Wind Speed [knot]": 12
+ },
+ {
+   "Latitude": 39.41,
+   "Longtitude": -83.81,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 10,
+   "Temperature [C]": -54,
+   "Relative Humidity [%]": 22,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 31
+ },
+ {
+   "Latitude": 42.7,
+   "Longtitude": -83.46,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 901.9,
+   "Temperature [C]": -10,
+   "Relative Humidity [%]": 92,
+   "Wind Direction [deg]": 155,
+   "Wind Speed [knot]": 9
+ },
+ {
+   "Latitude": 42.7,
+   "Longtitude": -83.46,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 738.2,
+   "Temperature [C]": -16.1,
+   "Relative Humidity [%]": 90,
+   "Wind Direction [deg]": 120,
+   "Wind Speed [knot]": 18
+ },
+ {
+   "Latitude": 42.7,
+   "Longtitude": -83.46,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 552.7,
+   "Temperature [C]": -27.4,
+   "Relative Humidity [%]": 78,
+   "Wind Direction [deg]": 140,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 42.7,
+   "Longtitude": -83.46,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 260,
+   "Temperature [C]": -51.1,
+   "Relative Humidity [%]": 11,
+   "Wind Direction [deg]": 233,
+   "Wind Speed [knot]": 27
+ },
+ {
+   "Latitude": 42.7,
+   "Longtitude": -83.46,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 112,
+   "Temperature [C]": -53.7,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 271,
+   "Wind Speed [knot]": 35
+ },
+ {
+   "Latitude": 42.7,
+   "Longtitude": -83.46,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 59.1,
+   "Temperature [C]": -55.5,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 290,
+   "Wind Speed [knot]": 35
+ },
+ {
+   "Latitude": 42.7,
+   "Longtitude": -83.46,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 25,
+   "Temperature [C]": -59.1,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 292,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 27.7,
+   "Longtitude": -82.4,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 921,
+   "Temperature [C]": 8,
+   "Relative Humidity [%]": 3,
+   "Wind Direction [deg]": 206,
+   "Wind Speed [knot]": 6
+ },
+ {
+   "Latitude": 27.7,
+   "Longtitude": -82.4,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 759.4,
+   "Temperature [C]": 5.6,
+   "Relative Humidity [%]": 8,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 26
+ },
+ {
+   "Latitude": 27.7,
+   "Longtitude": -82.4,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 700,
+   "Temperature [C]": 2.4,
+   "Relative Humidity [%]": 18,
+   "Wind Direction [deg]": 275,
+   "Wind Speed [knot]": 33
+ },
+ {
+   "Latitude": 27.7,
+   "Longtitude": -82.4,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 559.3,
+   "Temperature [C]": -8.5,
+   "Relative Humidity [%]": 4,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 41
+ },
+ {
+   "Latitude": 27.7,
+   "Longtitude": -82.4,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 265,
+   "Temperature [C]": -41.1,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 275,
+   "Wind Speed [knot]": 122
+ },
+ {
+   "Latitude": 27.7,
+   "Longtitude": -82.4,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 131,
+   "Temperature [C]": -67.9,
+   "Relative Humidity [%]": 14,
+   "Wind Direction [deg]": 256,
+   "Wind Speed [knot]": 123
+ },
+ {
+   "Latitude": 27.7,
+   "Longtitude": -82.4,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 53,
+   "Temperature [C]": -62.7,
+   "Relative Humidity [%]": 12,
+   "Wind Direction [deg]": 273,
+   "Wind Speed [knot]": 26
+ },
+ {
+   "Latitude": 27.7,
+   "Longtitude": -82.4,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 26.8,
+   "Temperature [C]": -56.2,
+   "Relative Humidity [%]": 4,
+   "Wind Direction [deg]": 260,
+   "Wind Speed [knot]": 25
+ },
+ {
+   "Latitude": 24.55,
+   "Longtitude": -81.75,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 915.4,
+   "Temperature [C]": 10.7,
+   "Relative Humidity [%]": 18,
+   "Wind Direction [deg]": 140,
+   "Wind Speed [knot]": 9
+ },
+ {
+   "Latitude": 24.55,
+   "Longtitude": -81.75,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 733.7,
+   "Temperature [C]": 6.3,
+   "Relative Humidity [%]": 11,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 12
+ },
+ {
+   "Latitude": 24.55,
+   "Longtitude": -81.75,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 540.6,
+   "Temperature [C]": -6.8,
+   "Relative Humidity [%]": 12,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 33
+ },
+ {
+   "Latitude": 24.55,
+   "Longtitude": -81.75,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 291.4,
+   "Temperature [C]": -34.3,
+   "Relative Humidity [%]": 44,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 98
+ },
+ {
+   "Latitude": 24.55,
+   "Longtitude": -81.75,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 150,
+   "Temperature [C]": -66.5,
+   "Relative Humidity [%]": 49,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 93
+ },
+ {
+   "Latitude": 24.55,
+   "Longtitude": -81.75,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 41.6,
+   "Temperature [C]": -62.6,
+   "Relative Humidity [%]": 42,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 26
+ },
+ {
+   "Latitude": 24.55,
+   "Longtitude": -81.75,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 16.5,
+   "Temperature [C]": -49.5,
+   "Relative Humidity [%]": 39,
+   "Wind Direction [deg]": 279,
+   "Wind Speed [knot]": 19
+ },
+ {
+   "Latitude": 30.5,
+   "Longtitude": -81.7,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 919,
+   "Temperature [C]": 5.4,
+   "Relative Humidity [%]": 20,
+   "Wind Direction [deg]": 240,
+   "Wind Speed [knot]": 12
+ },
+ {
+   "Latitude": 30.5,
+   "Longtitude": -81.7,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 782,
+   "Temperature [C]": 3.6,
+   "Relative Humidity [%]": 41,
+   "Wind Direction [deg]": 271,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 30.5,
+   "Longtitude": -81.7,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 658,
+   "Temperature [C]": -3.9,
+   "Relative Humidity [%]": 63,
+   "Wind Direction [deg]": 278,
+   "Wind Speed [knot]": 31
+ },
+ {
+   "Latitude": 30.5,
+   "Longtitude": -81.7,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 497,
+   "Temperature [C]": -14.5,
+   "Relative Humidity [%]": 12,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 55
+ },
+ {
+   "Latitude": 30.5,
+   "Longtitude": -81.7,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 300,
+   "Temperature [C]": -42.3,
+   "Relative Humidity [%]": 7,
+   "Wind Direction [deg]": 275,
+   "Wind Speed [knot]": 80
+ },
+ {
+   "Latitude": 30.5,
+   "Longtitude": -81.7,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 106,
+   "Temperature [C]": -70.3,
+   "Relative Humidity [%]": 16,
+   "Wind Direction [deg]": 260,
+   "Wind Speed [knot]": 101
+ },
+ {
+   "Latitude": 30.5,
+   "Longtitude": -81.7,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 51.8,
+   "Temperature [C]": -60.7,
+   "Relative Humidity [%]": 12,
+   "Wind Direction [deg]": 247,
+   "Wind Speed [knot]": 32
+ },
+ {
+   "Latitude": 30.5,
+   "Longtitude": -81.7,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 28.4,
+   "Temperature [C]": -53.5,
+   "Relative Humidity [%]": 8,
+   "Wind Direction [deg]": 258,
+   "Wind Speed [knot]": 37
+ },
+ {
+   "Latitude": 30.5,
+   "Longtitude": -81.7,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 11.3,
+   "Temperature [C]": -52,
+   "Relative Humidity [%]": 4,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 74
+ },
+ {
+   "Latitude": 28.46,
+   "Longtitude": -80.55,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 881.6,
+   "Temperature [C]": 8.5,
+   "Relative Humidity [%]": 8,
+   "Wind Direction [deg]": 245,
+   "Wind Speed [knot]": 10
+ },
+ {
+   "Latitude": 28.46,
+   "Longtitude": -80.55,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 788.4,
+   "Temperature [C]": 4.3,
+   "Relative Humidity [%]": 19,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 28.46,
+   "Longtitude": -80.55,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 652.4,
+   "Temperature [C]": -1.1,
+   "Relative Humidity [%]": 6,
+   "Wind Direction [deg]": 275,
+   "Wind Speed [knot]": 35
+ },
+ {
+   "Latitude": 28.46,
+   "Longtitude": -80.55,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 476.3,
+   "Temperature [C]": -15.8,
+   "Relative Humidity [%]": 4,
+   "Wind Direction [deg]": 275,
+   "Wind Speed [knot]": 48
+ },
+ {
+   "Latitude": 28.46,
+   "Longtitude": -80.55,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 238,
+   "Temperature [C]": -47,
+   "Relative Humidity [%]": 14,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 145
+ },
+ {
+   "Latitude": 37.2,
+   "Longtitude": -80.41,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 911,
+   "Temperature [C]": -1.7,
+   "Relative Humidity [%]": 34,
+   "Wind Direction [deg]": 241,
+   "Wind Speed [knot]": 11
+ },
+ {
+   "Latitude": 37.2,
+   "Longtitude": -80.41,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 812,
+   "Temperature [C]": -6.7,
+   "Relative Humidity [%]": 57,
+   "Wind Direction [deg]": 219,
+   "Wind Speed [knot]": 30
+ },
+ {
+   "Latitude": 37.2,
+   "Longtitude": -80.41,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 745.3,
+   "Temperature [C]": -9.3,
+   "Relative Humidity [%]": 97,
+   "Wind Direction [deg]": 245,
+   "Wind Speed [knot]": 42
+ },
+ {
+   "Latitude": 37.2,
+   "Longtitude": -80.41,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 582,
+   "Temperature [C]": -15.5,
+   "Relative Humidity [%]": 91,
+   "Wind Direction [deg]": 250,
+   "Wind Speed [knot]": 58
+ },
+ {
+   "Latitude": 37.2,
+   "Longtitude": -80.41,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 216,
+   "Temperature [C]": -62.9,
+   "Relative Humidity [%]": 21,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 130
+ },
+ {
+   "Latitude": 37.2,
+   "Longtitude": -80.41,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 112.1,
+   "Temperature [C]": -57.9,
+   "Relative Humidity [%]": 17,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 66
+ },
+ {
+   "Latitude": 37.2,
+   "Longtitude": -80.41,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 51.5,
+   "Temperature [C]": -60.4,
+   "Relative Humidity [%]": 17,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 18
+ },
+ {
+   "Latitude": 37.2,
+   "Longtitude": -80.41,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 22.6,
+   "Temperature [C]": -58.1,
+   "Relative Humidity [%]": 15,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 39
+ },
+ {
+   "Latitude": 37.2,
+   "Longtitude": -80.41,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 16.1,
+   "Temperature [C]": -55.8,
+   "Relative Humidity [%]": 12,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 30
+ },
+ {
+   "Latitude": 25.75,
+   "Longtitude": -80.38,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 918,
+   "Temperature [C]": 9.6,
+   "Relative Humidity [%]": 3,
+   "Wind Direction [deg]": 176,
+   "Wind Speed [knot]": 7
+ },
+ {
+   "Latitude": 25.75,
+   "Longtitude": -80.38,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 789.8,
+   "Temperature [C]": 8,
+   "Relative Humidity [%]": 6,
+   "Wind Direction [deg]": 250,
+   "Wind Speed [knot]": 14
+ },
+ {
+   "Latitude": 25.75,
+   "Longtitude": -80.38,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 693,
+   "Temperature [C]": 3.4,
+   "Relative Humidity [%]": 6,
+   "Wind Direction [deg]": 278,
+   "Wind Speed [knot]": 25
+ },
+ {
+   "Latitude": 25.75,
+   "Longtitude": -80.38,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 513,
+   "Temperature [C]": -11.1,
+   "Relative Humidity [%]": 2,
+   "Wind Direction [deg]": 264,
+   "Wind Speed [knot]": 40
+ },
+ {
+   "Latitude": 25.75,
+   "Longtitude": -80.38,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 295,
+   "Temperature [C]": -33.9,
+   "Relative Humidity [%]": 7,
+   "Wind Direction [deg]": 271,
+   "Wind Speed [knot]": 104
+ },
+ {
+   "Latitude": 25.75,
+   "Longtitude": -80.38,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 121,
+   "Temperature [C]": -70.1,
+   "Relative Humidity [%]": 22,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 109
+ },
+ {
+   "Latitude": 25.75,
+   "Longtitude": -80.38,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 50,
+   "Temperature [C]": -66.1,
+   "Relative Humidity [%]": 20,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 23
+ },
+ {
+   "Latitude": 25.75,
+   "Longtitude": -80.38,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 20.8,
+   "Temperature [C]": -50.5,
+   "Relative Humidity [%]": 10,
+   "Wind Direction [deg]": 285,
+   "Wind Speed [knot]": 12
+ },
+ {
+   "Latitude": 25.75,
+   "Longtitude": -80.38,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 10,
+   "Temperature [C]": -54,
+   "Relative Humidity [%]": 7,
+   "Wind Direction [deg]": 285,
+   "Wind Speed [knot]": 29
+ },
+ {
+   "Latitude": 40.53,
+   "Longtitude": -80.23,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 902.6,
+   "Temperature [C]": -9.1,
+   "Relative Humidity [%]": 86,
+   "Wind Direction [deg]": 160,
+   "Wind Speed [knot]": 12
+ },
+ {
+   "Latitude": 40.53,
+   "Longtitude": -80.23,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 772,
+   "Temperature [C]": -10.3,
+   "Relative Humidity [%]": 90,
+   "Wind Direction [deg]": 230,
+   "Wind Speed [knot]": 21
+ },
+ {
+   "Latitude": 40.53,
+   "Longtitude": -80.23,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 580.6,
+   "Temperature [C]": -21.2,
+   "Relative Humidity [%]": 83,
+   "Wind Direction [deg]": 215,
+   "Wind Speed [knot]": 41
+ },
+ {
+   "Latitude": 40.53,
+   "Longtitude": -80.23,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 215,
+   "Temperature [C]": -56.9,
+   "Relative Humidity [%]": 13,
+   "Wind Direction [deg]": 250,
+   "Wind Speed [knot]": 70
+ },
+ {
+   "Latitude": 40.53,
+   "Longtitude": -80.23,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 108,
+   "Temperature [C]": -52.9,
+   "Relative Humidity [%]": 2,
+   "Wind Direction [deg]": 271,
+   "Wind Speed [knot]": 54
+ },
+ {
+   "Latitude": 40.53,
+   "Longtitude": -80.23,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 60.6,
+   "Temperature [C]": -57.9,
+   "Relative Humidity [%]": 2,
+   "Wind Direction [deg]": 288,
+   "Wind Speed [knot]": 38
+ },
+ {
+   "Latitude": 40.53,
+   "Longtitude": -80.23,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 26.7,
+   "Temperature [C]": -58.5,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 303,
+   "Wind Speed [knot]": 19
+ },
+ {
+   "Latitude": 40.53,
+   "Longtitude": -80.23,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 14.6,
+   "Temperature [C]": -58.4,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 38
+ },
+ {
+   "Latitude": 32.9,
+   "Longtitude": -80.03,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 910.8,
+   "Temperature [C]": 5.5,
+   "Relative Humidity [%]": 11,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 22
+ },
+ {
+   "Latitude": 32.9,
+   "Longtitude": -80.03,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 826,
+   "Temperature [C]": 1.2,
+   "Relative Humidity [%]": 51,
+   "Wind Direction [deg]": 262,
+   "Wind Speed [knot]": 26
+ },
+ {
+   "Latitude": 32.9,
+   "Longtitude": -80.03,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 700,
+   "Temperature [C]": -4.9,
+   "Relative Humidity [%]": 85,
+   "Wind Direction [deg]": 260,
+   "Wind Speed [knot]": 36
+ },
+ {
+   "Latitude": 32.9,
+   "Longtitude": -80.03,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 529,
+   "Temperature [C]": -12.8,
+   "Relative Humidity [%]": 42,
+   "Wind Direction [deg]": 275,
+   "Wind Speed [knot]": 74
+ },
+ {
+   "Latitude": 32.9,
+   "Longtitude": -80.03,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 223,
+   "Temperature [C]": -59.7,
+   "Relative Humidity [%]": 34,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 105
+ },
+ {
+   "Latitude": 32.9,
+   "Longtitude": -80.03,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 115.5,
+   "Temperature [C]": -64.2,
+   "Relative Humidity [%]": 28,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 103
+ },
+ {
+   "Latitude": 32.9,
+   "Longtitude": -80.03,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 51.3,
+   "Temperature [C]": -59.7,
+   "Relative Humidity [%]": 23,
+   "Wind Direction [deg]": 268,
+   "Wind Speed [knot]": 24
+ },
+ {
+   "Latitude": 32.9,
+   "Longtitude": -80.03,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 28.4,
+   "Temperature [C]": -57.1,
+   "Relative Humidity [%]": 18,
+   "Wind Direction [deg]": 246,
+   "Wind Speed [knot]": 31
+ },
+ {
+   "Latitude": 32.9,
+   "Longtitude": -80.03,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 10,
+   "Temperature [C]": -52.3,
+   "Relative Humidity [%]": 6,
+   "Wind Direction [deg]": 260,
+   "Wind Speed [knot]": 63
+ },
+ {
+   "Latitude": 36.08,
+   "Longtitude": -79.95,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 862,
+   "Temperature [C]": -2.7,
+   "Relative Humidity [%]": 46,
+   "Wind Direction [deg]": 240,
+   "Wind Speed [knot]": 27
+ },
+ {
+   "Latitude": 36.08,
+   "Longtitude": -79.95,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 807.8,
+   "Temperature [C]": -3.5,
+   "Relative Humidity [%]": 97,
+   "Wind Direction [deg]": 245,
+   "Wind Speed [knot]": 40
+ },
+ {
+   "Latitude": 36.08,
+   "Longtitude": -79.95,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 700,
+   "Temperature [C]": -7.1,
+   "Relative Humidity [%]": 93,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 43
+ },
+ {
+   "Latitude": 36.08,
+   "Longtitude": -79.95,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 572,
+   "Temperature [C]": -16.3,
+   "Relative Humidity [%]": 76,
+   "Wind Direction [deg]": 262,
+   "Wind Speed [knot]": 68
+ },
+ {
+   "Latitude": 36.08,
+   "Longtitude": -79.95,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 217,
+   "Temperature [C]": -61.5,
+   "Relative Humidity [%]": 29,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 124
+ },
+ {
+   "Latitude": 36.08,
+   "Longtitude": -79.95,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 130.6,
+   "Temperature [C]": -57.2,
+   "Relative Humidity [%]": 23,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 99
+ },
+ {
+   "Latitude": 36.08,
+   "Longtitude": -79.95,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 49.2,
+   "Temperature [C]": -62.8,
+   "Relative Humidity [%]": 21,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 27
+ },
+ {
+   "Latitude": 36.08,
+   "Longtitude": -79.95,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 24.4,
+   "Temperature [C]": -57.3,
+   "Relative Humidity [%]": 18,
+   "Wind Direction [deg]": 258,
+   "Wind Speed [knot]": 32
+ },
+ {
+   "Latitude": 36.08,
+   "Longtitude": -79.95,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 11.7,
+   "Temperature [C]": -52.5,
+   "Relative Humidity [%]": 17,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 41
+ },
+ {
+   "Latitude": 42.93,
+   "Longtitude": -78.73,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 890,
+   "Temperature [C]": -8.7,
+   "Relative Humidity [%]": 93,
+   "Wind Direction [deg]": 211,
+   "Wind Speed [knot]": 8
+ },
+ {
+   "Latitude": 42.93,
+   "Longtitude": -78.73,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 803,
+   "Temperature [C]": -9.7,
+   "Relative Humidity [%]": 44,
+   "Wind Direction [deg]": 75,
+   "Wind Speed [knot]": 10
+ },
+ {
+   "Latitude": 42.93,
+   "Longtitude": -78.73,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 688,
+   "Temperature [C]": -16.5,
+   "Relative Humidity [%]": 42,
+   "Wind Direction [deg]": 134,
+   "Wind Speed [knot]": 10
+ },
+ {
+   "Latitude": 42.93,
+   "Longtitude": -78.73,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 604.7,
+   "Temperature [C]": -21.7,
+   "Relative Humidity [%]": 66,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 5
+ },
+ {
+   "Latitude": 42.93,
+   "Longtitude": -78.73,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 249,
+   "Temperature [C]": -58.1,
+   "Relative Humidity [%]": 35,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 66
+ },
+ {
+   "Latitude": 42.93,
+   "Longtitude": -78.73,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 109.3,
+   "Temperature [C]": -53.6,
+   "Relative Humidity [%]": 4,
+   "Wind Direction [deg]": 285,
+   "Wind Speed [knot]": 35
+ },
+ {
+   "Latitude": 42.93,
+   "Longtitude": -78.73,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 47.9,
+   "Temperature [C]": -55.3,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 293,
+   "Wind Speed [knot]": 24
+ },
+ {
+   "Latitude": 38.98,
+   "Longtitude": -77.46,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 873,
+   "Temperature [C]": -4.3,
+   "Relative Humidity [%]": 54,
+   "Wind Direction [deg]": 268,
+   "Wind Speed [knot]": 17
+ },
+ {
+   "Latitude": 38.98,
+   "Longtitude": -77.46,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 804.8,
+   "Temperature [C]": -7.4,
+   "Relative Humidity [%]": 23,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 19
+ },
+ {
+   "Latitude": 38.98,
+   "Longtitude": -77.46,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 653,
+   "Temperature [C]": -11.7,
+   "Relative Humidity [%]": 74,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 39
+ },
+ {
+   "Latitude": 38.98,
+   "Longtitude": -77.46,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 527,
+   "Temperature [C]": -22.1,
+   "Relative Humidity [%]": 79,
+   "Wind Direction [deg]": 257,
+   "Wind Speed [knot]": 46
+ },
+ {
+   "Latitude": 38.98,
+   "Longtitude": -77.46,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 206,
+   "Temperature [C]": -61.1,
+   "Relative Humidity [%]": 9,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 104
+ },
+ {
+   "Latitude": 38.98,
+   "Longtitude": -77.46,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 117,
+   "Temperature [C]": -57.5,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 261,
+   "Wind Speed [knot]": 55
+ },
+ {
+   "Latitude": 38.98,
+   "Longtitude": -77.46,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 59.9,
+   "Temperature [C]": -59.5,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 273,
+   "Wind Speed [knot]": 41
+ },
+ {
+   "Latitude": 38.98,
+   "Longtitude": -77.46,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 21.6,
+   "Temperature [C]": -56.3,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 260,
+   "Wind Speed [knot]": 24
+ },
+ {
+   "Latitude": 38.98,
+   "Longtitude": -77.46,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 12.1,
+   "Temperature [C]": -58.2,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 43
+ },
+ {
+   "Latitude": 34.78,
+   "Longtitude": -76.88,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 925,
+   "Temperature [C]": 1.8,
+   "Relative Humidity [%]": 18,
+   "Wind Direction [deg]": 290,
+   "Wind Speed [knot]": 16
+ },
+ {
+   "Latitude": 34.78,
+   "Longtitude": -76.88,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 811,
+   "Temperature [C]": 0.6,
+   "Relative Humidity [%]": 40,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 31
+ },
+ {
+   "Latitude": 34.78,
+   "Longtitude": -76.88,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 693,
+   "Temperature [C]": -5.3,
+   "Relative Humidity [%]": 53,
+   "Wind Direction [deg]": 272,
+   "Wind Speed [knot]": 35
+ },
+ {
+   "Latitude": 34.78,
+   "Longtitude": -76.88,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 569,
+   "Temperature [C]": -16.3,
+   "Relative Humidity [%]": 66,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 61
+ },
+ {
+   "Latitude": 34.78,
+   "Longtitude": -76.88,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 300.3,
+   "Temperature [C]": -46.5,
+   "Relative Humidity [%]": 40,
+   "Wind Direction [deg]": 275,
+   "Wind Speed [knot]": 98
+ },
+ {
+   "Latitude": 34.78,
+   "Longtitude": -76.88,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 132.1,
+   "Temperature [C]": -57.5,
+   "Relative Humidity [%]": 29,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 99
+ },
+ {
+   "Latitude": 34.78,
+   "Longtitude": -76.88,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 48.2,
+   "Temperature [C]": -58.7,
+   "Relative Humidity [%]": 23,
+   "Wind Direction [deg]": 262,
+   "Wind Speed [knot]": 37
+ },
+ {
+   "Latitude": 34.78,
+   "Longtitude": -76.88,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 21.8,
+   "Temperature [C]": -56.2,
+   "Relative Humidity [%]": 16,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 41
+ },
+ {
+   "Latitude": 37.93,
+   "Longtitude": -75.48,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 850,
+   "Temperature [C]": -1.3,
+   "Relative Humidity [%]": 24,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 20
+ },
+ {
+   "Latitude": 37.93,
+   "Longtitude": -75.48,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 700,
+   "Temperature [C]": -9.1,
+   "Relative Humidity [%]": 75,
+   "Wind Direction [deg]": 275,
+   "Wind Speed [knot]": 33
+ },
+ {
+   "Latitude": 37.93,
+   "Longtitude": -75.48,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 423,
+   "Temperature [C]": -34.7,
+   "Relative Humidity [%]": 54,
+   "Wind Direction [deg]": 272,
+   "Wind Speed [knot]": 59
+ },
+ {
+   "Latitude": 37.93,
+   "Longtitude": -75.48,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 231.6,
+   "Temperature [C]": -59.7,
+   "Relative Humidity [%]": 6,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 118
+ },
+ {
+   "Latitude": 37.93,
+   "Longtitude": -75.48,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 100,
+   "Temperature [C]": -57.9,
+   "Relative Humidity [%]": 2,
+   "Wind Direction [deg]": 265,
+   "Wind Speed [knot]": 70
+ },
+ {
+   "Latitude": 37.93,
+   "Longtitude": -75.48,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 35,
+   "Temperature [C]": -58.4,
+   "Relative Humidity [%]": 3,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 24
+ },
+ {
+   "Latitude": 37.93,
+   "Longtitude": -75.48,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 20.6,
+   "Temperature [C]": -57.6,
+   "Relative Humidity [%]": 2,
+   "Wind Direction [deg]": 260,
+   "Wind Speed [knot]": 49
+ },
+ {
+   "Latitude": 37.93,
+   "Longtitude": -75.48,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 10.1,
+   "Temperature [C]": -54.9,
+   "Relative Humidity [%]": 2,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 44
+ },
+ {
+   "Latitude": 42.7,
+   "Longtitude": -73.83,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 939,
+   "Temperature [C]": -7.1,
+   "Relative Humidity [%]": 98,
+   "Wind Direction [deg]": 304,
+   "Wind Speed [knot]": 25
+ },
+ {
+   "Latitude": 42.7,
+   "Longtitude": -73.83,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 800.7,
+   "Temperature [C]": -9.2,
+   "Relative Humidity [%]": 28,
+   "Wind Direction [deg]": 320,
+   "Wind Speed [knot]": 21
+ },
+ {
+   "Latitude": 42.7,
+   "Longtitude": -73.83,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 655.8,
+   "Temperature [C]": -16.4,
+   "Relative Humidity [%]": 33,
+   "Wind Direction [deg]": 295,
+   "Wind Speed [knot]": 27
+ },
+ {
+   "Latitude": 42.7,
+   "Longtitude": -73.83,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 450,
+   "Temperature [C]": -34.1,
+   "Relative Humidity [%]": 17,
+   "Wind Direction [deg]": 285,
+   "Wind Speed [knot]": 54
+ },
+ {
+   "Latitude": 42.7,
+   "Longtitude": -73.83,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 284.5,
+   "Temperature [C]": -56.6,
+   "Relative Humidity [%]": 24,
+   "Wind Direction [deg]": 290,
+   "Wind Speed [knot]": 73
+ },
+ {
+   "Latitude": 42.7,
+   "Longtitude": -73.83,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 171,
+   "Temperature [C]": -56.3,
+   "Relative Humidity [%]": 10,
+   "Wind Direction [deg]": 279,
+   "Wind Speed [knot]": 62
+ },
+ {
+   "Latitude": 40.86,
+   "Longtitude": -72.86,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 850,
+   "Temperature [C]": -4.1,
+   "Relative Humidity [%]": 58,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 20
+ },
+ {
+   "Latitude": 40.86,
+   "Longtitude": -72.86,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 751,
+   "Temperature [C]": -8.7,
+   "Relative Humidity [%]": 26,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 23
+ },
+ {
+   "Latitude": 40.86,
+   "Longtitude": -72.86,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 670,
+   "Temperature [C]": -14.7,
+   "Relative Humidity [%]": 46,
+   "Wind Direction [deg]": 277,
+   "Wind Speed [knot]": 30
+ },
+ {
+   "Latitude": 40.86,
+   "Longtitude": -72.86,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 544,
+   "Temperature [C]": -20.5,
+   "Relative Humidity [%]": 13,
+   "Wind Direction [deg]": 287,
+   "Wind Speed [knot]": 46
+ },
+ {
+   "Latitude": 40.86,
+   "Longtitude": -72.86,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 300,
+   "Temperature [C]": -53.9,
+   "Relative Humidity [%]": 22,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 71
+ },
+ {
+   "Latitude": 40.86,
+   "Longtitude": -72.86,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 116,
+   "Temperature [C]": -53.9,
+   "Relative Humidity [%]": 14,
+   "Wind Direction [deg]": 276,
+   "Wind Speed [knot]": 40
+ },
+ {
+   "Latitude": 40.86,
+   "Longtitude": -72.86,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 48.1,
+   "Temperature [C]": -55.9,
+   "Relative Humidity [%]": 10,
+   "Wind Direction [deg]": 258,
+   "Wind Speed [knot]": 49
+ },
+ {
+   "Latitude": 40.86,
+   "Longtitude": -72.86,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 26,
+   "Temperature [C]": -56,
+   "Relative Humidity [%]": 7,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 18
+ },
+ {
+   "Latitude": 40.86,
+   "Longtitude": -72.86,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 13.3,
+   "Temperature [C]": -55.5,
+   "Relative Humidity [%]": 2,
+   "Wind Direction [deg]": 250,
+   "Wind Speed [knot]": 52
+ },
+ {
+   "Latitude": 43.9,
+   "Longtitude": -70.25,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 850,
+   "Temperature [C]": -7.3,
+   "Relative Humidity [%]": 77,
+   "Wind Direction [deg]": 320,
+   "Wind Speed [knot]": 28
+ },
+ {
+   "Latitude": 43.9,
+   "Longtitude": -70.25,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 757,
+   "Temperature [C]": -10.1,
+   "Relative Humidity [%]": 48,
+   "Wind Direction [deg]": 302,
+   "Wind Speed [knot]": 17
+ },
+ {
+   "Latitude": 43.9,
+   "Longtitude": -70.25,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 679,
+   "Temperature [C]": -14.9,
+   "Relative Humidity [%]": 20,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 36
+ },
+ {
+   "Latitude": 43.9,
+   "Longtitude": -70.25,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 499,
+   "Temperature [C]": -31.9,
+   "Relative Humidity [%]": 50,
+   "Wind Direction [deg]": 285,
+   "Wind Speed [knot]": 41
+ },
+ {
+   "Latitude": 43.9,
+   "Longtitude": -70.25,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 243.5,
+   "Temperature [C]": -55.7,
+   "Relative Humidity [%]": 19,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 40
+ },
+ {
+   "Latitude": 43.9,
+   "Longtitude": -70.25,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 85.2,
+   "Temperature [C]": -55.4,
+   "Relative Humidity [%]": 9,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 54
+ },
+ {
+   "Latitude": 43.9,
+   "Longtitude": -70.25,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 41.7,
+   "Temperature [C]": -54.9,
+   "Relative Humidity [%]": 3,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 36
+ },
+ {
+   "Latitude": 43.9,
+   "Longtitude": -70.25,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 23.5,
+   "Temperature [C]": -58.3,
+   "Relative Humidity [%]": 2,
+   "Wind Direction [deg]": 300,
+   "Wind Speed [knot]": 13
+ },
+ {
+   "Latitude": 43.9,
+   "Longtitude": -70.25,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 11.8,
+   "Temperature [C]": -59.2,
+   "Relative Humidity [%]": 1,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 49
+ },
+ {
+   "Latitude": 41.66,
+   "Longtitude": -69.96,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 864.3,
+   "Temperature [C]": -4.4,
+   "Relative Humidity [%]": 47,
+   "Wind Direction [deg]": 310,
+   "Wind Speed [knot]": 32
+ },
+ {
+   "Latitude": 41.66,
+   "Longtitude": -69.96,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 719,
+   "Temperature [C]": -13.5,
+   "Relative Humidity [%]": 66,
+   "Wind Direction [deg]": 278,
+   "Wind Speed [knot]": 39
+ },
+ {
+   "Latitude": 41.66,
+   "Longtitude": -69.96,
+   "Height [m]": 3000,
+   "Pressure [hPa]": 612,
+   "Temperature [C]": -19.9,
+   "Relative Humidity [%]": 37,
+   "Wind Direction [deg]": 285,
+   "Wind Speed [knot]": 41
+ },
+ {
+   "Latitude": 41.66,
+   "Longtitude": -69.96,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 469.9,
+   "Temperature [C]": -31.1,
+   "Relative Humidity [%]": 7,
+   "Wind Direction [deg]": 285,
+   "Wind Speed [knot]": 60
+ },
+ {
+   "Latitude": 41.66,
+   "Longtitude": -69.96,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 250,
+   "Temperature [C]": -55.9,
+   "Relative Humidity [%]": 27,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 66
+ },
+ {
+   "Latitude": 41.66,
+   "Longtitude": -69.96,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 116,
+   "Temperature [C]": -53.9,
+   "Relative Humidity [%]": 19,
+   "Wind Direction [deg]": 278,
+   "Wind Speed [knot]": 46
+ },
+ {
+   "Latitude": 41.66,
+   "Longtitude": -69.96,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 48.7,
+   "Temperature [C]": -57.3,
+   "Relative Humidity [%]": 15,
+   "Wind Direction [deg]": 270,
+   "Wind Speed [knot]": 44
+ },
+ {
+   "Latitude": 41.66,
+   "Longtitude": -69.96,
+   "Height [m]": 25000,
+   "Pressure [hPa]": 23.5,
+   "Temperature [C]": -58.4,
+   "Relative Humidity [%]": 12,
+   "Wind Direction [deg]": 255,
+   "Wind Speed [knot]": 29
+ },
+ {
+   "Latitude": 41.66,
+   "Longtitude": -69.96,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 10.2,
+   "Temperature [C]": -57.5,
+   "Relative Humidity [%]": 10,
+   "Wind Direction [deg]": 277,
+   "Wind Speed [knot]": 58
+ },
+ {
+   "Latitude": 46.86,
+   "Longtitude": -68.01,
+   "Height [m]": 1000,
+   "Pressure [hPa]": 926.9,
+   "Temperature [C]": -6.8,
+   "Relative Humidity [%]": 77,
+   "Wind Direction [deg]": 305,
+   "Wind Speed [knot]": 24
+ },
+ {
+   "Latitude": 46.86,
+   "Longtitude": -68.01,
+   "Height [m]": 2000,
+   "Pressure [hPa]": 760,
+   "Temperature [C]": -12.9,
+   "Relative Humidity [%]": 91,
+   "Wind Direction [deg]": 335,
+   "Wind Speed [knot]": 24
+ },
+ {
+   "Latitude": 46.86,
+   "Longtitude": -68.01,
+   "Height [m]": 5000,
+   "Pressure [hPa]": 523.6,
+   "Temperature [C]": -30.1,
+   "Relative Humidity [%]": 46,
+   "Wind Direction [deg]": 310,
+   "Wind Speed [knot]": 26
+ },
+ {
+   "Latitude": 46.86,
+   "Longtitude": -68.01,
+   "Height [m]": 10000,
+   "Pressure [hPa]": 277,
+   "Temperature [C]": -54.5,
+   "Relative Humidity [%]": 37,
+   "Wind Direction [deg]": 290,
+   "Wind Speed [knot]": 41
+ },
+ {
+   "Latitude": 46.86,
+   "Longtitude": -68.01,
+   "Height [m]": 15000,
+   "Pressure [hPa]": 96.3,
+   "Temperature [C]": -57.9,
+   "Relative Humidity [%]": 20,
+   "Wind Direction [deg]": 284,
+   "Wind Speed [knot]": 16
+ },
+ {
+   "Latitude": 46.86,
+   "Longtitude": -68.01,
+   "Height [m]": 20000,
+   "Pressure [hPa]": 49.8,
+   "Temperature [C]": -55.5,
+   "Relative Humidity [%]": 12,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 34
+ },
+ {
+   "Latitude": 46.86,
+   "Longtitude": -68.01,
+   "Height [m]": 30000,
+   "Pressure [hPa]": 15.5,
+   "Temperature [C]": -60.2,
+   "Relative Humidity [%]": 12,
+   "Wind Direction [deg]": 280,
+   "Wind Speed [knot]": 45
+ }
+]
