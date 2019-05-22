@@ -1,0 +1,145 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>MAESTRO Lab WebVR</title>
+    <meta name="description" content="Maestro Lab WebVR">
+
+    <script src="https://aframe.io/releases/0.9.0/aframe.min.js"></script>
+    <script src="//cdn.rawgit.com/donmccurdy/aframe-extras/v3.2.2/dist/aframe-extras.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.4.5/socket.io.min.js"></script>
+    <script src="easyrtc/easyrtc.js"></script>
+    <script src="https://unpkg.com/networked-aframe@^0.6.0/dist/networked-aframe.min.js"></script>
+
+    <script src="https://unpkg.com/aframe-randomizer-components@^3.0.1/dist/aframe-randomizer-components.min.js"></script>
+    <script src="https://unpkg.com/aframe-particle-system-component@1.0.5/dist/aframe-particle-system-component.min.js"></script>
+    <script src="https://unpkg.com/aframe-event-set-component@3.0.3/dist/aframe-event-set-component.min.js"></script>
+    <script src="/js/spawn-in-circle.component.js"></script>
+    
+    <script src="https://rawgit.com/donmccurdy/aframe-extras/master/dist/aframe-extras.loaders.min.js"></script>
+    <!script src="//cdn.rawgit.com/donmccurdy/aframe-extras/v4.1.1/dist/aframe-extras.min.js"><!/script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.4.1/d3.min.js"></script>
+    <script src="https://cdn.rawgit.com/zcanter/aframe-scatterplot/master/dist/a-scatterplot.min.js"></script>
+  </head>
+  <body>
+    <a-scene  networked-scene="
+      room: basic;
+      debug: true;
+    ">
+      <a-assets>
+
+        <a-mixin id="checkpoint"></a-mixin>
+        <a-mixin id="checkpoint-hovered" color="#6CEEB5"></a-mixin>
+        
+        <img id="grid" src="https://img.gs/bbdkhfbzkk/stretch/https://i.imgur.com/25P1geh.png" crossorigin="anonymous">
+        <img id="sky" src="https://img.gs/bbdkhfbzkk/2048x2048,stretch/http://i.imgur.com/WqlqEkq.jpg" crossorigin="anonymous" />
+
+        <!-- Templates -->
+
+        <!-- Avatar -->
+        <template id="avatar-template">
+          <a-entity class="avatar">
+            <a-sphere class="head"
+              color="#5985ff"
+              scale="0.45 0.5 0.4"
+              position="0 1.4 0"
+              random-color
+            ></a-sphere>
+            <a-entity class="face"
+              position="0 1.2 0"
+            >
+              <a-sphere class="eye"
+                color="#efefef"
+                position="0.16 0.1 -0.35"
+                scale="0.12 0.12 0.12"
+              >
+                <a-sphere class="pupil"
+                  color="#000"
+                  position="0 0 -1"
+                  scale="0.2 0.2 0.2"
+                ></a-sphere>
+              </a-sphere>
+              <a-sphere class="eye"
+                color="#efefef"
+                position="-0.16 0.1 -0.35"
+                scale="0.12 0.12 0.12"
+              >
+                <a-sphere class="pupil"
+                  color="#000"
+                  position="0 0 -1"
+                  scale="0.2 0.2 0.2"
+                ></a-sphere>
+              </a-sphere>
+            </a-entity>
+          </a-entity>
+        </template>
+
+        <!-- /Templates -->
+      </a-assets>
+
+      <a-entity id = "player" networked="template:#avatar-template;attachTemplateToLocal:false;"  universal-controls="movementControls: checkpoint" checkpoint-controls="mode: animate">
+      <a-entity camera position="0 1.6 0" look-controls="pointerLockEnabled: true">
+        <a-entity cursor position="0 0 -1" geometry="primitive: ring; radiusInner: 0.02; radiusOuter: 0.03;" material="color: #CCC; shader: flat;"></a-entity>
+        <a-sphere class="head"
+          visible="false"
+          random-color
+        ></a-sphere>
+      </a-entity>
+      </a-entity>
+
+
+      <a-entity position="0 0 0"
+        geometry="primitive: plane; width: 10000; height: 10000;" rotation="-90 0 0"
+        material="src: #grid; repeat: 10000 10000; transparent: true; metalness:0.6; roughness: 0.4; sphericalEnvMap: #sky;"></a-entity>
+
+      <a-entity light="color: #ccccff; intensity: 1; type: ambient;" visible=""></a-entity>
+      <a-entity light="color: #ffaaff; intensity: 1.5" position="5 5 5"></a-entity>
+
+      <a-sky src="#sky" rotation="0 -90 0"></a-sky>
+
+      <!--
+      id = 'empennage': src = https://cdn.glitch.com/2c55c38c-d15f-494e-b0de-d467a7bee211%2Fempennage.glb
+      id = 'tailhook': src = https://cdn.glitch.com/2c55c38c-d15f-494e-b0de-d467a7bee211%2Ftailhook.glb
+      id = 'graysonjob': src = https://cdn.glitch.com/a78d5d1e-8bba-4309-bce0-09520c5020ca%2FGraysonJob_X_000.glb
+
+      models = ["https://cdn.glitch.com/2c55c38c-d15f-494e-b0de-d467a7bee211%2Fempennage.glb", "https://cdn.glitch.com/2c55c38c-d15f-494e-b0de-d467a7bee211%2Ftailhook.glb", "https://cdn.glitch.com/a78d5d1e-8bba-4309-bce0-09520c5020ca%2FGraysonJob_X_000.glb"]
+      
+      -->
+      
+      <!-- Button Inputs -->
+      <a-text id="ViewEngine" value="Abaqus Engine" align="center" color="#FFF" visible="true" position="-5.0 1.4 -2.25" rotation = "0 90 0" scale = "0.5 0.5 0.5"
+                geometry="primitive: plane; width: 2.0" material="color: #500000"
+              event-set__down="_event: mousedown; _target: #abaqus1; visible: true"
+              event-set__down2="_event: mousedown; _target: #abaqus2; visible: false"
+              event-set__down3="_event: mousedown; _target: #abaqus3; visible: false"></a-text>
+      <a-text id="ViewEmp" value="Abaqus Empennage" align="center" color="#FFF" visible="true" position="-5.0 0.7 -2.25" rotation = "0 90 0" scale = "0.5 0.5 0.5"
+                geometry="primitive: plane; width: 2.0" material="color: #500000"
+              event-set__down="_event: mousedown; _target: #abaqus1; visible: false"
+              event-set__down2="_event: mousedown; _target: #abaqus2; visible: true"
+              event-set__down3="_event: mousedown; _target: #abaqus3; visible: false"></a-text>
+      <a-text id="ViewHook" value="Abaqus Tailhook" align="center" color="#FFF" visible="true" position="-5.0 2.1 -2.25" rotation = "0 90 0" scale = "0.5 0.5 0.5"
+                geometry="primitive: plane; width: 2.0" material="color: #500000"
+              event-set__down="_event: mousedown; _target: #abaqus1; visible: false"
+              event-set__down2="_event: mousedown; _target: #abaqus2; visible: false"
+              event-set__down3="_event: mousedown; _target: #abaqus3; visible: true"></a-text>
+
+      <a-entity gltf-model="url(https://cdn.glitch.com/a78d5d1e-8bba-4309-bce0-09520c5020ca%2FGraysonJob_X_000.glb)" id = "abaqus1" position="-3 1.5 -3" scale = "0.1 0.1 0.1" rotation = "0 0 0" visible = "true"></a-entity>
+      <a-entity gltf-model="url(https://cdn.glitch.com/2c55c38c-d15f-494e-b0de-d467a7bee211%2Fempennage.glb)" id = "abaqus2"  position="-3 0 -3" scale = "0.2 0.2 0.2" rotation = "0 0 0" visible = "false"></a-entity>
+      <a-entity gltf-model="url(https://cdn.glitch.com/2c55c38c-d15f-494e-b0de-d467a7bee211%2Ftailhook.glb)" id = "abaqus3"  position="-3 1.5 -3" scale = "0.04 0.04 0.04" rotation = "0 0 0" visible = "false"></a-entity>
+      <!a-entity gltf-model="url(https://cdn.glitch.com/2c55c38c-d15f-494e-b0de-d467a7bee211%2Fsmoothed.glb)" position="-6 0.3 -6" scale = "0.1 0.1 0.1" rotation = "90 0 0" ><!/a-entity>
+      
+      <!-- Checkpoints -->
+      <a-cylinder checkpoint radius="0.5" height="0.01" position="-5.96 0 -4.02" color="#39BB82"></a-cylinder>
+      <a-cylinder checkpoint radius="0.5" height="0.01" position="-3.47 0 -5.459" color="#39BB82"></a-cylinder>
+      <a-cylinder checkpoint radius="0.5" height="0.01" position="-1.94 0 -4.02" color="#39BB82"></a-cylinder>
+      <a-cylinder checkpoint radius="0.5" height="0.01" position="-2.3 0 -1" color="#39BB82"></a-cylinder>
+      <a-cylinder checkpoint radius="0.5" height="0.01" position="-3.47 0 -0.125" color="#39BB82"></a-cylinder>
+      <a-cylinder checkpoint radius="0.5" height="0.01" position="-1.58 0 -1.636" color="#39BB82"></a-cylinder>
+      <a-cylinder checkpoint radius="0.5" height="0.01" position="0 0 12" color="#39BB82"></a-cylinder>
+      <a-cylinder checkpoint radius="0.5" height="0.01" position="0 0 8" color="#39BB82"></a-cylinder>
+      
+    </a-scene>
+    
+    
+  </body>
+</html>
